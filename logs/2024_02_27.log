@@ -1,0 +1,2722 @@
+2024-02-27 13:54:10,300 - ERROR - Can't connect with MES APP
+2024-02-27 14:15:39,455 - WARNING - Wrong PLC Signal
+2024-02-27 14:15:46,694 - ERROR - Can't connect with MES APP
+2024-02-27 14:16:00,845 - WARNING - Wrong PLC Signal
+2024-02-27 14:16:06,806 - WARNING - Wrong PLC Signal
+2024-02-27 14:16:18,855 - WARNING - Wrong PLC Signal
+2024-02-27 14:16:44,164 - WARNING - Wrong PLC Signal
+2024-02-27 14:16:53,693 - WARNING - Wrong PLC Signal
+2024-02-27 14:17:14,162 - WARNING - Wrong PLC Signal
+2024-02-27 14:17:21,282 - WARNING - Wrong PLC Signal
+2024-02-27 14:28:19,033 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 14:28:19,034 - INFO - --> Received scan signal from PLC
+2024-02-27 14:28:19,034 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 14:28:19,096 - INFO - --> RESULT SCAN
+2024-02-27 14:28:19,098 - INFO - PASS SCAN
+2024-02-27 14:28:19,098 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 14:31:43,402 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 14:31:43,402 - INFO - --> Received scan signal from PLC
+2024-02-27 14:31:43,402 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 14:31:43,456 - INFO - --> RESULT SCAN
+2024-02-27 14:31:43,457 - INFO - PASS SCAN
+2024-02-27 14:31:43,458 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 14:31:43,921 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 14:31:46,215 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 14:33:21,447 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 14:33:21,448 - INFO - --> Received scan signal from PLC
+2024-02-27 14:33:21,448 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 14:33:24,426 - INFO - --> RESULT SCAN
+2024-02-27 14:33:24,428 - ERROR - FAILED
+2024-02-27 14:33:24,460 - ERROR - ------FAIL SCAN-------
+2024-02-27 14:33:24,460 - ERROR - Data SN: None
+2024-02-27 14:33:41,010 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 14:33:41,010 - INFO - --> Received scan signal from PLC
+2024-02-27 14:33:41,010 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 14:33:41,053 - INFO - --> RESULT SCAN
+2024-02-27 14:33:41,056 - INFO - PASS SCAN
+2024-02-27 14:33:41,057 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 14:33:41,563 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 14:33:43,967 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 14:36:08,717 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 14:36:08,718 - INFO - --> Received scan signal from PLC
+2024-02-27 14:36:08,718 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 14:36:11,651 - INFO - --> RESULT SCAN
+2024-02-27 14:36:11,653 - ERROR - FAILED
+2024-02-27 14:36:11,680 - ERROR - ------FAIL SCAN-------
+2024-02-27 14:36:11,680 - ERROR - Data SN: None
+2024-02-27 14:36:37,140 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 14:36:37,140 - INFO - --> Received scan signal from PLC
+2024-02-27 14:36:37,140 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 14:36:37,183 - INFO - --> RESULT SCAN
+2024-02-27 14:36:37,185 - INFO - PASS SCAN
+2024-02-27 14:36:37,186 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 14:36:37,956 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 14:36:40,339 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 14:37:39,478 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 14:37:39,478 - INFO - --> Received scan signal from PLC
+2024-02-27 14:37:39,478 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 14:37:39,523 - INFO - --> RESULT SCAN
+2024-02-27 14:37:39,524 - INFO - PASS SCAN
+2024-02-27 14:37:39,526 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 14:37:39,973 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 14:37:42,286 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 14:45:49,513 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 14:45:49,514 - INFO - --> Received scan signal from PLC
+2024-02-27 14:45:49,514 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 14:45:51,221 - WARNING - Received signal PLC when program is processing.
+2024-02-27 14:45:52,345 - INFO - --> RESULT SCAN
+2024-02-27 14:45:52,346 - ERROR - FAILED
+2024-02-27 14:45:52,368 - ERROR - ------FAIL SCAN-------
+2024-02-27 14:45:52,368 - ERROR - Data SN: None
+2024-02-27 14:46:09,803 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 14:46:09,804 - INFO - --> Received scan signal from PLC
+2024-02-27 14:46:09,804 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 14:46:11,337 - INFO - --> RESULT SCAN
+2024-02-27 14:46:11,338 - INFO - PASS SCAN
+2024-02-27 14:46:11,339 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 14:46:11,856 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 14:46:14,422 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 14:49:37,635 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 14:49:37,638 - INFO - --> Received scan signal from PLC
+2024-02-27 14:49:37,638 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 14:49:37,642 - WARNING - Received signal PLC when program is processing.
+2024-02-27 14:49:37,653 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:03:27,259 - ERROR - Can't connect with MES APP
+2024-02-27 15:04:02,332 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:04:02,332 - INFO - --> Received scan signal from PLC
+2024-02-27 15:04:02,333 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:04:05,281 - INFO - --> RESULT SCAN
+2024-02-27 15:04:05,282 - ERROR - FAILED
+2024-02-27 15:04:05,308 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:04:05,308 - ERROR - Data SN: None
+2024-02-27 15:04:12,940 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:04:12,941 - INFO - --> Received scan signal from PLC
+2024-02-27 15:04:12,941 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:04:12,977 - INFO - --> RESULT SCAN
+2024-02-27 15:04:12,978 - INFO - PASS SCAN
+2024-02-27 15:04:12,980 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:04:15,348 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:20,093 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:22,471 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:30,192 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:31,779 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:33,229 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:37,200 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:39,362 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:46,810 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:49,083 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:50,561 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:51,998 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:53,471 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:54,778 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:56,010 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:57,354 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:58,731 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:04:59,450 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:06:13,044 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:13,045 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:13,046 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:13,100 - INFO - --> RESULT SCAN
+2024-02-27 15:06:13,100 - INFO - PASS SCAN
+2024-02-27 15:06:13,101 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:13,558 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 15:06:15,305 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:15,305 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:15,305 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:15,350 - INFO - --> RESULT SCAN
+2024-02-27 15:06:15,351 - INFO - PASS SCAN
+2024-02-27 15:06:15,351 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:15,534 - INFO - --> Send Data SN:  21031810050123071680334733
+2024-02-27 15:06:17,286 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:17,286 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:17,286 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:17,330 - INFO - --> RESULT SCAN
+2024-02-27 15:06:17,330 - INFO - PASS SCAN
+2024-02-27 15:06:17,331 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:17,518 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 15:06:19,274 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:19,274 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:19,274 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:19,322 - INFO - --> RESULT SCAN
+2024-02-27 15:06:19,323 - INFO - PASS SCAN
+2024-02-27 15:06:19,323 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:19,506 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 15:06:21,254 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:21,254 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:21,255 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:21,329 - INFO - --> RESULT SCAN
+2024-02-27 15:06:21,329 - INFO - PASS SCAN
+2024-02-27 15:06:21,329 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:21,509 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 15:06:23,756 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:06:28,925 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:28,925 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:28,925 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:28,968 - INFO - --> RESULT SCAN
+2024-02-27 15:06:28,968 - INFO - PASS SCAN
+2024-02-27 15:06:28,969 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:29,154 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 15:06:31,366 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:06:31,883 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:31,884 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:31,884 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:31,929 - INFO - --> RESULT SCAN
+2024-02-27 15:06:31,930 - INFO - PASS SCAN
+2024-02-27 15:06:31,930 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:32,118 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 15:06:33,874 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:33,875 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:33,875 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:33,927 - INFO - --> RESULT SCAN
+2024-02-27 15:06:33,928 - INFO - PASS SCAN
+2024-02-27 15:06:33,928 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:34,115 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 15:06:36,341 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:06:39,947 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:39,948 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:39,948 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:39,990 - INFO - --> RESULT SCAN
+2024-02-27 15:06:39,990 - INFO - PASS SCAN
+2024-02-27 15:06:39,990 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:40,174 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 15:06:42,412 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:06:43,745 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:43,745 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:43,745 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:43,789 - INFO - --> RESULT SCAN
+2024-02-27 15:06:43,789 - INFO - PASS SCAN
+2024-02-27 15:06:43,790 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:43,981 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 15:06:45,692 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:06:46,231 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:06:48,902 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:48,902 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:48,903 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:48,947 - INFO - --> RESULT SCAN
+2024-02-27 15:06:48,948 - INFO - PASS SCAN
+2024-02-27 15:06:48,948 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:49,127 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 15:06:50,964 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:50,964 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:50,965 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:51,018 - INFO - --> RESULT SCAN
+2024-02-27 15:06:51,019 - INFO - PASS SCAN
+2024-02-27 15:06:51,019 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:51,206 - INFO - --> Send Data SN:  21031810050123071680334729
+2024-02-27 15:06:52,934 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:52,935 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:52,935 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:52,979 - INFO - --> RESULT SCAN
+2024-02-27 15:06:52,980 - INFO - PASS SCAN
+2024-02-27 15:06:52,980 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:53,164 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 15:06:54,934 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:54,934 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:54,934 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:54,979 - INFO - --> RESULT SCAN
+2024-02-27 15:06:54,979 - INFO - PASS SCAN
+2024-02-27 15:06:54,979 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:55,163 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 15:06:56,913 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:56,913 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:56,913 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:56,983 - INFO - --> RESULT SCAN
+2024-02-27 15:06:56,983 - INFO - PASS SCAN
+2024-02-27 15:06:56,983 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:57,163 - INFO - --> Send Data SN:  21031810050123071680334718
+2024-02-27 15:06:58,913 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:06:58,914 - INFO - --> Received scan signal from PLC
+2024-02-27 15:06:58,914 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:06:58,964 - INFO - --> RESULT SCAN
+2024-02-27 15:06:58,964 - INFO - PASS SCAN
+2024-02-27 15:06:58,964 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:06:59,144 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 15:07:00,882 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:07:00,882 - INFO - --> Received scan signal from PLC
+2024-02-27 15:07:00,883 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:07:00,948 - INFO - --> RESULT SCAN
+2024-02-27 15:07:00,948 - INFO - PASS SCAN
+2024-02-27 15:07:00,948 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:07:01,134 - INFO - --> Send Data SN:  21031810050123071680338294
+2024-02-27 15:07:02,921 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:07:02,921 - INFO - --> Received scan signal from PLC
+2024-02-27 15:07:02,922 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:07:02,961 - INFO - --> RESULT SCAN
+2024-02-27 15:07:02,961 - INFO - PASS SCAN
+2024-02-27 15:07:02,961 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:07:03,145 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 15:07:04,872 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:07:04,872 - INFO - --> Received scan signal from PLC
+2024-02-27 15:07:04,872 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:07:04,913 - INFO - --> RESULT SCAN
+2024-02-27 15:07:04,913 - INFO - PASS SCAN
+2024-02-27 15:07:04,913 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:07:05,098 - INFO - --> Send Data SN:  21031810050123071680334735
+2024-02-27 15:07:06,812 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:07:06,812 - INFO - --> Received scan signal from PLC
+2024-02-27 15:07:06,812 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:07:06,856 - INFO - --> RESULT SCAN
+2024-02-27 15:07:06,857 - INFO - PASS SCAN
+2024-02-27 15:07:06,857 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:07:07,041 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 15:07:08,812 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:07:08,813 - INFO - --> Received scan signal from PLC
+2024-02-27 15:07:08,813 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:07:08,852 - INFO - --> RESULT SCAN
+2024-02-27 15:07:08,852 - INFO - PASS SCAN
+2024-02-27 15:07:08,853 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:07:09,039 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 15:07:11,265 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:07:13,742 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:07:13,743 - INFO - --> Received scan signal from PLC
+2024-02-27 15:07:13,743 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:07:13,787 - INFO - --> RESULT SCAN
+2024-02-27 15:07:13,787 - INFO - PASS SCAN
+2024-02-27 15:07:13,788 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:07:13,971 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 15:07:15,706 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:07:15,707 - INFO - --> Received scan signal from PLC
+2024-02-27 15:07:15,707 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:07:15,747 - INFO - --> RESULT SCAN
+2024-02-27 15:07:15,747 - INFO - PASS SCAN
+2024-02-27 15:07:15,747 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:07:15,927 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 15:07:17,644 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:07:17,644 - INFO - --> Received scan signal from PLC
+2024-02-27 15:07:17,644 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:07:17,689 - INFO - --> RESULT SCAN
+2024-02-27 15:07:17,689 - INFO - PASS SCAN
+2024-02-27 15:07:17,689 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:07:17,867 - INFO - --> Send Data SN:  21031810050123071680338292
+2024-02-27 15:07:19,692 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:07:19,692 - INFO - --> Received scan signal from PLC
+2024-02-27 15:07:19,692 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:07:22,380 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:07:22,905 - INFO - --> RESULT SCAN
+2024-02-27 15:07:22,905 - ERROR - FAILED
+2024-02-27 15:07:22,927 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:07:22,927 - ERROR - Data SN: None
+2024-02-27 15:17:41,655 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:17:41,656 - INFO - --> Received scan signal from PLC
+2024-02-27 15:17:41,656 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:17:41,830 - INFO - --> RESULT SCAN
+2024-02-27 15:17:41,831 - INFO - PASS SCAN
+2024-02-27 15:17:41,831 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:30:21,362 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:30:21,363 - INFO - --> Received scan signal from PLC
+2024-02-27 15:30:21,363 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:30:21,479 - INFO - --> RESULT SCAN
+2024-02-27 15:30:21,480 - INFO - PASS SCAN
+2024-02-27 15:30:21,481 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:30:22,202 - INFO - --> Send Data SN:  7253501109324CRA3A1012610P
+2024-02-27 15:30:25,665 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:31:04,071 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:31:04,071 - INFO - --> Received scan signal from PLC
+2024-02-27 15:31:04,071 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:31:07,153 - INFO - --> RESULT SCAN
+2024-02-27 15:31:07,153 - ERROR - FAILED
+2024-02-27 15:31:07,178 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:31:07,179 - ERROR - Data SN: None
+2024-02-27 15:31:13,919 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:31:13,919 - INFO - --> Received scan signal from PLC
+2024-02-27 15:31:13,919 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:31:13,994 - INFO - --> RESULT SCAN
+2024-02-27 15:31:13,996 - INFO - PASS SCAN
+2024-02-27 15:31:13,998 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:31:14,423 - INFO - --> Send Data SN:  7253501109324CRA3A1012610P
+2024-02-27 15:31:17,674 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:31:27,313 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:31:27,313 - INFO - --> Received scan signal from PLC
+2024-02-27 15:31:27,313 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:31:30,342 - INFO - --> RESULT SCAN
+2024-02-27 15:31:30,344 - ERROR - FAILED
+2024-02-27 15:31:30,368 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:31:30,368 - ERROR - Data SN: None
+2024-02-27 15:31:46,082 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:31:46,082 - INFO - --> Received scan signal from PLC
+2024-02-27 15:31:46,082 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:31:49,107 - INFO - --> RESULT SCAN
+2024-02-27 15:31:49,109 - ERROR - FAILED
+2024-02-27 15:31:49,134 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:31:49,135 - ERROR - Data SN: None
+2024-02-27 15:32:01,863 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:32:01,863 - INFO - --> Received scan signal from PLC
+2024-02-27 15:32:01,863 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:32:01,947 - INFO - --> RESULT SCAN
+2024-02-27 15:32:01,950 - INFO - PASS SCAN
+2024-02-27 15:32:01,953 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:32:02,377 - INFO - --> Send Data SN:  7253501109324CRA3A1012610P
+2024-02-27 15:32:05,636 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:37:51,447 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:37:51,448 - INFO - --> Received scan signal from PLC
+2024-02-27 15:37:51,448 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:37:53,033 - INFO - --> RESULT SCAN
+2024-02-27 15:37:53,034 - INFO - PASS SCAN
+2024-02-27 15:37:53,036 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:37:53,772 - INFO - --> Send Data SN:  7253501109324CRA3A1012610P
+2024-02-27 15:37:56,057 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:38:14,855 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:38:14,855 - INFO - --> Received scan signal from PLC
+2024-02-27 15:38:14,856 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:38:17,880 - INFO - --> RESULT SCAN
+2024-02-27 15:38:17,882 - ERROR - FAILED
+2024-02-27 15:38:17,906 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:38:17,906 - ERROR - Data SN: None
+2024-02-27 15:38:33,112 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:38:33,112 - INFO - --> Received scan signal from PLC
+2024-02-27 15:38:33,112 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:38:36,122 - INFO - --> RESULT SCAN
+2024-02-27 15:38:36,124 - ERROR - FAILED
+2024-02-27 15:38:36,148 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:38:36,148 - ERROR - Data SN: None
+2024-02-27 15:38:40,905 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:38:40,905 - INFO - --> Received scan signal from PLC
+2024-02-27 15:38:40,905 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:38:43,945 - INFO - --> RESULT SCAN
+2024-02-27 15:38:43,947 - ERROR - FAILED
+2024-02-27 15:38:43,972 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:38:43,972 - ERROR - Data SN: None
+2024-02-27 15:39:14,026 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:39:14,027 - INFO - --> Received scan signal from PLC
+2024-02-27 15:39:14,027 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:39:14,081 - INFO - --> RESULT SCAN
+2024-02-27 15:39:14,082 - INFO - PASS SCAN
+2024-02-27 15:39:14,083 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:39:14,523 - INFO - --> Send Data SN:  7253501179224CRAXA1012429R
+2024-02-27 15:39:16,912 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:39:22,962 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:39:22,963 - INFO - --> Received scan signal from PLC
+2024-02-27 15:39:22,963 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:39:23,009 - INFO - --> RESULT SCAN
+2024-02-27 15:39:23,011 - INFO - PASS SCAN
+2024-02-27 15:39:23,012 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:39:23,435 - INFO - --> Send Data SN:  7253501179224CRAXA1012429R
+2024-02-27 15:39:25,894 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:39:28,178 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:39:28,179 - INFO - --> Received scan signal from PLC
+2024-02-27 15:39:28,179 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:39:28,228 - INFO - --> RESULT SCAN
+2024-02-27 15:39:28,229 - INFO - PASS SCAN
+2024-02-27 15:39:28,231 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:39:28,613 - INFO - --> Send Data SN:  7253501179224CRAXA1012429R
+2024-02-27 15:39:31,057 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:39:45,778 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:39:45,778 - INFO - --> Received scan signal from PLC
+2024-02-27 15:39:45,778 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:39:47,321 - INFO - --> RESULT SCAN
+2024-02-27 15:39:47,323 - INFO - PASS SCAN
+2024-02-27 15:39:47,324 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:39:47,754 - INFO - --> Send Data SN:  7253501180424CRAMA1012410S
+2024-02-27 15:39:50,163 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:40:25,300 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:40:25,301 - INFO - --> Received scan signal from PLC
+2024-02-27 15:40:25,301 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:40:25,365 - INFO - --> RESULT SCAN
+2024-02-27 15:40:25,367 - INFO - PASS SCAN
+2024-02-27 15:40:25,369 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:40:25,811 - INFO - --> Send Data SN:  7253501160124CRASA1012427Y
+2024-02-27 15:40:28,275 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:41:50,490 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:41:50,490 - INFO - --> Received scan signal from PLC
+2024-02-27 15:41:50,490 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:41:50,520 - INFO - --> RESULT SCAN
+2024-02-27 15:41:50,522 - INFO - PASS SCAN
+2024-02-27 15:41:50,523 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:42:00,597 - WARNING - Received signal PLC when program is processing.
+2024-02-27 15:42:27,282 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:42:27,282 - INFO - --> Received scan signal from PLC
+2024-02-27 15:42:27,283 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:42:27,339 - INFO - --> RESULT SCAN
+2024-02-27 15:42:27,341 - INFO - PASS SCAN
+2024-02-27 15:42:27,343 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:42:28,079 - INFO - --> Send Data SN:  7253501109324CRA3A1012610P
+2024-02-27 15:42:30,532 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:42:37,159 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:42:37,159 - INFO - --> Received scan signal from PLC
+2024-02-27 15:42:37,160 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:42:40,181 - INFO - --> RESULT SCAN
+2024-02-27 15:42:40,183 - ERROR - FAILED
+2024-02-27 15:42:40,207 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:42:40,207 - ERROR - Data SN: None
+2024-02-27 15:42:42,755 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:42:42,755 - INFO - --> Received scan signal from PLC
+2024-02-27 15:42:42,756 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:42:42,799 - INFO - --> RESULT SCAN
+2024-02-27 15:42:42,800 - INFO - PASS SCAN
+2024-02-27 15:42:42,801 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:42:43,210 - INFO - --> Send Data SN:  7253501179224CRAXA1012429R
+2024-02-27 15:42:45,601 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:44:36,896 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:44:36,896 - INFO - --> Received scan signal from PLC
+2024-02-27 15:44:36,897 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:44:39,899 - INFO - --> RESULT SCAN
+2024-02-27 15:44:39,900 - ERROR - FAILED
+2024-02-27 15:44:39,924 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:44:39,924 - ERROR - Data SN: None
+2024-02-27 15:44:51,176 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:44:51,176 - INFO - --> Received scan signal from PLC
+2024-02-27 15:44:51,176 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:44:51,220 - INFO - --> RESULT SCAN
+2024-02-27 15:44:51,221 - INFO - PASS SCAN
+2024-02-27 15:44:51,223 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:44:51,671 - INFO - --> Send Data SN:  7253501179224CRAXA1012429R
+2024-02-27 15:44:54,143 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 15:44:58,593 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:44:58,593 - INFO - --> Received scan signal from PLC
+2024-02-27 15:44:58,594 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:45:00,147 - INFO - --> RESULT SCAN
+2024-02-27 15:45:00,149 - INFO - PASS SCAN
+2024-02-27 15:45:00,151 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:45:00,589 - INFO - --> Send Data SN:  7253501180424CRAMA1012410S
+2024-02-27 15:45:02,601 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:45:02,602 - INFO - --> Received scan signal from PLC
+2024-02-27 15:45:02,602 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:45:02,694 - INFO - --> RESULT SCAN
+2024-02-27 15:45:02,696 - INFO - PASS SCAN
+2024-02-27 15:45:02,698 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:45:03,107 - INFO - --> Send Data SN:  7253501160124CRASA1012427Y
+2024-02-27 15:45:04,670 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:45:04,670 - INFO - --> Received scan signal from PLC
+2024-02-27 15:45:04,671 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:45:04,747 - INFO - --> RESULT SCAN
+2024-02-27 15:45:04,749 - INFO - PASS SCAN
+2024-02-27 15:45:04,750 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:45:05,146 - INFO - --> Send Data SN:  7253501112724CRAKA1012416F
+2024-02-27 15:45:07,104 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:45:07,104 - INFO - --> Received scan signal from PLC
+2024-02-27 15:45:07,105 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:45:07,187 - INFO - --> RESULT SCAN
+2024-02-27 15:45:07,189 - INFO - PASS SCAN
+2024-02-27 15:45:07,190 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:45:07,590 - INFO - --> Send Data SN:  7253501141624CRALA1012414W
+2024-02-27 15:45:09,339 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:45:09,339 - INFO - --> Received scan signal from PLC
+2024-02-27 15:45:09,339 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:45:10,882 - INFO - --> RESULT SCAN
+2024-02-27 15:45:10,884 - INFO - PASS SCAN
+2024-02-27 15:45:10,885 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:45:11,290 - INFO - --> Send Data SN:  7253501108624CRA3A1012416C
+2024-02-27 15:45:13,007 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:45:13,008 - INFO - --> Received scan signal from PLC
+2024-02-27 15:45:13,008 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:45:16,043 - INFO - --> RESULT SCAN
+2024-02-27 15:45:16,046 - ERROR - FAILED
+2024-02-27 15:45:16,071 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:45:16,071 - ERROR - Data SN: None
+2024-02-27 15:45:20,713 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:45:20,713 - INFO - --> Received scan signal from PLC
+2024-02-27 15:45:20,714 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:45:23,698 - INFO - --> RESULT SCAN
+2024-02-27 15:45:23,701 - ERROR - FAILED
+2024-02-27 15:45:23,724 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:45:23,724 - ERROR - Data SN: None
+2024-02-27 15:45:26,468 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:45:26,468 - INFO - --> Received scan signal from PLC
+2024-02-27 15:45:26,468 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:45:29,438 - INFO - --> RESULT SCAN
+2024-02-27 15:45:29,440 - ERROR - FAILED
+2024-02-27 15:45:29,466 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:45:29,466 - ERROR - Data SN: None
+2024-02-27 15:45:34,755 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:45:34,756 - INFO - --> Received scan signal from PLC
+2024-02-27 15:45:34,756 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:45:37,740 - INFO - --> RESULT SCAN
+2024-02-27 15:45:37,742 - ERROR - FAILED
+2024-02-27 15:45:37,767 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:45:37,767 - ERROR - Data SN: None
+2024-02-27 15:45:42,097 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:45:42,097 - INFO - --> Received scan signal from PLC
+2024-02-27 15:45:42,097 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:45:45,084 - INFO - --> RESULT SCAN
+2024-02-27 15:45:45,086 - ERROR - FAILED
+2024-02-27 15:45:45,111 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:45:45,111 - ERROR - Data SN: None
+2024-02-27 15:45:51,215 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:45:51,215 - INFO - --> Received scan signal from PLC
+2024-02-27 15:45:51,215 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:45:54,186 - INFO - --> RESULT SCAN
+2024-02-27 15:45:54,187 - ERROR - FAILED
+2024-02-27 15:45:54,213 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:45:54,213 - ERROR - Data SN: None
+2024-02-27 15:46:08,183 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:46:08,183 - INFO - --> Received scan signal from PLC
+2024-02-27 15:46:08,184 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:46:08,224 - INFO - --> RESULT SCAN
+2024-02-27 15:46:08,225 - INFO - PASS SCAN
+2024-02-27 15:46:08,227 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:46:08,664 - INFO - --> Send Data SN:  7253501114324CRAHA1012426G
+2024-02-27 15:46:10,418 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:46:10,418 - INFO - --> Received scan signal from PLC
+2024-02-27 15:46:10,418 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:46:11,958 - INFO - --> RESULT SCAN
+2024-02-27 15:46:11,960 - INFO - PASS SCAN
+2024-02-27 15:46:11,961 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:46:12,359 - INFO - --> Send Data SN:  7253501179224CRAXA1012413L
+2024-02-27 15:46:13,906 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:46:13,907 - INFO - --> Received scan signal from PLC
+2024-02-27 15:46:13,907 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:46:16,951 - INFO - --> RESULT SCAN
+2024-02-27 15:46:16,952 - ERROR - FAILED
+2024-02-27 15:46:16,976 - ERROR - ------FAIL SCAN-------
+2024-02-27 15:46:16,976 - ERROR - Data SN: None
+2024-02-27 15:47:06,807 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:06,807 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:06,807 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:06,857 - INFO - --> RESULT SCAN
+2024-02-27 15:47:06,859 - INFO - PASS SCAN
+2024-02-27 15:47:06,860 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:07,307 - INFO - --> Send Data SN:  7253485118324CRACA1012430E
+2024-02-27 15:47:09,042 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:09,042 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:09,042 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:09,173 - INFO - --> RESULT SCAN
+2024-02-27 15:47:09,175 - INFO - PASS SCAN
+2024-02-27 15:47:09,176 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:09,580 - INFO - --> Send Data SN:  7253485118324CRACA1012405Y
+2024-02-27 15:47:11,585 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:11,586 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:11,586 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:11,646 - INFO - --> RESULT SCAN
+2024-02-27 15:47:11,647 - INFO - PASS SCAN
+2024-02-27 15:47:11,648 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:12,057 - INFO - --> Send Data SN:  7253485192624CRAKA1012412W
+2024-02-27 15:47:13,746 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:13,746 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:13,746 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:13,788 - INFO - --> RESULT SCAN
+2024-02-27 15:47:13,789 - INFO - PASS SCAN
+2024-02-27 15:47:13,792 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:14,199 - INFO - --> Send Data SN:  7253485108424CRACA1012426F
+2024-02-27 15:47:16,307 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:16,307 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:16,307 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:16,354 - INFO - --> RESULT SCAN
+2024-02-27 15:47:16,355 - INFO - PASS SCAN
+2024-02-27 15:47:16,357 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:16,760 - INFO - --> Send Data SN:  7253392335924CRA8A1A30C15S
+2024-02-27 15:47:18,962 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:18,962 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:18,962 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:19,000 - INFO - --> RESULT SCAN
+2024-02-27 15:47:19,002 - INFO - PASS SCAN
+2024-02-27 15:47:19,003 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:19,398 - INFO - --> Send Data SN:  7253501109324CRA3A1012609J
+2024-02-27 15:47:20,971 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:20,971 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:20,971 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:21,015 - INFO - --> RESULT SCAN
+2024-02-27 15:47:21,016 - INFO - PASS SCAN
+2024-02-27 15:47:21,017 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:21,422 - INFO - --> Send Data SN:  7253501176824CRA0A1012434Y
+2024-02-27 15:47:22,981 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:22,982 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:22,982 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:23,066 - INFO - --> RESULT SCAN
+2024-02-27 15:47:23,067 - INFO - PASS SCAN
+2024-02-27 15:47:23,068 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:23,485 - INFO - --> Send Data SN:  7253501141624CRALA1012410Q
+2024-02-27 15:47:25,087 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:25,087 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:25,087 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:26,626 - INFO - --> RESULT SCAN
+2024-02-27 15:47:26,627 - INFO - PASS SCAN
+2024-02-27 15:47:26,628 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:27,027 - INFO - --> Send Data SN:  7253501112724CRAKA1012422S
+2024-02-27 15:47:28,774 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:28,774 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:28,774 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:28,821 - INFO - --> RESULT SCAN
+2024-02-27 15:47:28,823 - INFO - PASS SCAN
+2024-02-27 15:47:28,824 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:29,232 - INFO - --> Send Data SN:  7253501180424CRAMA1012411X
+2024-02-27 15:47:30,797 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:30,797 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:30,797 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:32,346 - INFO - --> RESULT SCAN
+2024-02-27 15:47:32,348 - INFO - PASS SCAN
+2024-02-27 15:47:32,349 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:32,765 - INFO - --> Send Data SN:  7253501179224CRAXA1012407K
+2024-02-27 15:47:34,683 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:34,684 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:34,685 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:34,742 - INFO - --> RESULT SCAN
+2024-02-27 15:47:34,743 - INFO - PASS SCAN
+2024-02-27 15:47:34,744 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:35,162 - INFO - --> Send Data SN:  7253485135424CRAJA1012412V
+2024-02-27 15:47:36,714 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:36,714 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:36,714 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:36,765 - INFO - --> RESULT SCAN
+2024-02-27 15:47:36,767 - INFO - PASS SCAN
+2024-02-27 15:47:36,768 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:37,186 - INFO - --> Send Data SN:  7253485108424CRACA1012419N
+2024-02-27 15:47:39,083 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:39,083 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:39,083 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:39,234 - INFO - --> RESULT SCAN
+2024-02-27 15:47:39,236 - INFO - PASS SCAN
+2024-02-27 15:47:39,237 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:39,652 - INFO - --> Send Data SN:  7253485127724CRAAA1012422F
+2024-02-27 15:47:41,544 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 15:47:41,544 - INFO - --> Received scan signal from PLC
+2024-02-27 15:47:41,544 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 15:47:41,594 - INFO - --> RESULT SCAN
+2024-02-27 15:47:41,596 - INFO - PASS SCAN
+2024-02-27 15:47:41,597 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 15:47:42,016 - INFO - --> Send Data SN:  7253392308424CRA7A1A30C05Q
+2024-02-27 16:25:48,310 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:25:48,310 - INFO - --> Received scan signal from PLC
+2024-02-27 16:25:48,311 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:25:48,362 - INFO - --> RESULT SCAN
+2024-02-27 16:25:48,362 - INFO - PASS SCAN
+2024-02-27 16:25:48,362 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:26:40,947 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:26:40,948 - INFO - --> Received scan signal from PLC
+2024-02-27 16:26:40,948 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:26:40,995 - INFO - --> RESULT SCAN
+2024-02-27 16:26:40,995 - INFO - PASS SCAN
+2024-02-27 16:26:40,995 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:26:41,459 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:26:43,686 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:26:45,817 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:26:45,818 - INFO - --> Received scan signal from PLC
+2024-02-27 16:26:45,818 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:26:45,861 - INFO - --> RESULT SCAN
+2024-02-27 16:26:45,861 - INFO - PASS SCAN
+2024-02-27 16:26:45,861 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:26:46,034 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:26:47,769 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:26:47,769 - INFO - --> Received scan signal from PLC
+2024-02-27 16:26:47,770 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:26:47,810 - INFO - --> RESULT SCAN
+2024-02-27 16:26:47,810 - INFO - PASS SCAN
+2024-02-27 16:26:47,810 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:26:47,982 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 16:26:49,707 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:26:49,707 - INFO - --> Received scan signal from PLC
+2024-02-27 16:26:49,708 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:26:49,756 - INFO - --> RESULT SCAN
+2024-02-27 16:26:49,757 - INFO - PASS SCAN
+2024-02-27 16:26:49,757 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:26:49,928 - INFO - --> Send Data SN:  21031810050123071680334729
+2024-02-27 16:26:51,687 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:26:51,687 - INFO - --> Received scan signal from PLC
+2024-02-27 16:26:51,688 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:26:51,735 - INFO - --> RESULT SCAN
+2024-02-27 16:26:51,735 - INFO - PASS SCAN
+2024-02-27 16:26:51,735 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:26:51,907 - INFO - --> Send Data SN:  21031810050123071680338292
+2024-02-27 16:26:53,627 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:26:53,627 - INFO - --> Received scan signal from PLC
+2024-02-27 16:26:53,627 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:26:53,675 - INFO - --> RESULT SCAN
+2024-02-27 16:26:53,676 - INFO - PASS SCAN
+2024-02-27 16:26:53,677 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:26:53,852 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 16:26:56,071 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:26:59,596 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:26:59,596 - INFO - --> Received scan signal from PLC
+2024-02-27 16:26:59,596 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:26:59,618 - INFO - --> RESULT SCAN
+2024-02-27 16:26:59,618 - INFO - PASS SCAN
+2024-02-27 16:26:59,619 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:26:59,794 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 16:27:01,525 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:27:01,526 - INFO - --> Received scan signal from PLC
+2024-02-27 16:27:01,526 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:27:01,571 - INFO - --> RESULT SCAN
+2024-02-27 16:27:01,571 - INFO - PASS SCAN
+2024-02-27 16:27:01,572 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:27:01,746 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:27:03,577 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:27:03,577 - INFO - --> Received scan signal from PLC
+2024-02-27 16:27:03,577 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:27:03,612 - INFO - --> RESULT SCAN
+2024-02-27 16:27:03,613 - INFO - PASS SCAN
+2024-02-27 16:27:03,613 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:27:03,787 - INFO - --> Send Data SN:  21031810050123071680334733
+2024-02-27 16:27:05,496 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:27:05,496 - INFO - --> Received scan signal from PLC
+2024-02-27 16:27:05,496 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:27:05,540 - INFO - --> RESULT SCAN
+2024-02-27 16:27:05,540 - INFO - PASS SCAN
+2024-02-27 16:27:05,540 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:27:05,711 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 16:27:07,455 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:27:07,455 - INFO - --> Received scan signal from PLC
+2024-02-27 16:27:07,455 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:27:07,489 - INFO - --> RESULT SCAN
+2024-02-27 16:27:07,489 - INFO - PASS SCAN
+2024-02-27 16:27:07,489 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:27:07,661 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 16:27:09,417 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:27:09,417 - INFO - --> Received scan signal from PLC
+2024-02-27 16:27:09,418 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:27:09,458 - INFO - --> RESULT SCAN
+2024-02-27 16:27:09,458 - INFO - PASS SCAN
+2024-02-27 16:27:09,458 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:27:09,633 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 16:27:11,386 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:27:11,387 - INFO - --> Received scan signal from PLC
+2024-02-27 16:27:11,387 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:27:11,418 - INFO - --> RESULT SCAN
+2024-02-27 16:27:11,418 - INFO - PASS SCAN
+2024-02-27 16:27:11,418 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:27:11,594 - INFO - --> Send Data SN:  21031810050123071680334735
+2024-02-27 16:27:13,316 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:27:13,316 - INFO - --> Received scan signal from PLC
+2024-02-27 16:27:13,316 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:27:13,360 - INFO - --> RESULT SCAN
+2024-02-27 16:27:13,360 - INFO - PASS SCAN
+2024-02-27 16:27:13,360 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:27:13,530 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 16:27:15,337 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:27:15,337 - INFO - --> Received scan signal from PLC
+2024-02-27 16:27:15,338 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:27:15,374 - INFO - --> RESULT SCAN
+2024-02-27 16:27:15,374 - INFO - PASS SCAN
+2024-02-27 16:27:15,374 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:27:15,548 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:27:17,749 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:27:26,315 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:27:26,315 - INFO - --> Received scan signal from PLC
+2024-02-27 16:27:26,316 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:27:26,359 - INFO - --> RESULT SCAN
+2024-02-27 16:27:26,359 - INFO - PASS SCAN
+2024-02-27 16:27:26,360 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:27:26,545 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:27:28,316 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:27:28,316 - INFO - --> Received scan signal from PLC
+2024-02-27 16:27:28,317 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:27:28,350 - INFO - --> RESULT SCAN
+2024-02-27 16:27:28,350 - INFO - PASS SCAN
+2024-02-27 16:27:28,351 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:27:28,525 - INFO - --> Send Data SN:  21031810050123071680338294
+2024-02-27 16:27:30,254 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:27:30,256 - INFO - --> Received scan signal from PLC
+2024-02-27 16:27:30,256 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:27:30,292 - INFO - --> RESULT SCAN
+2024-02-27 16:27:30,292 - INFO - PASS SCAN
+2024-02-27 16:27:30,292 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:27:30,512 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 16:27:32,235 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:27:32,235 - INFO - --> Received scan signal from PLC
+2024-02-27 16:27:32,235 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:27:32,270 - INFO - --> RESULT SCAN
+2024-02-27 16:27:32,271 - INFO - PASS SCAN
+2024-02-27 16:27:32,271 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:27:32,456 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:27:34,717 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:29:03,813 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:03,813 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:03,814 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:03,858 - INFO - --> RESULT SCAN
+2024-02-27 16:29:03,859 - INFO - PASS SCAN
+2024-02-27 16:29:03,859 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:04,337 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:29:05,653 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:05,653 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:05,654 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:05,709 - INFO - --> RESULT SCAN
+2024-02-27 16:29:05,709 - INFO - PASS SCAN
+2024-02-27 16:29:05,709 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:05,885 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 16:29:07,173 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:07,173 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:07,173 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:07,215 - INFO - --> RESULT SCAN
+2024-02-27 16:29:07,215 - INFO - PASS SCAN
+2024-02-27 16:29:07,215 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:07,386 - INFO - --> Send Data SN:  21031810050123071680334729
+2024-02-27 16:29:08,652 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:08,652 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:08,653 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:08,685 - INFO - --> RESULT SCAN
+2024-02-27 16:29:08,685 - INFO - PASS SCAN
+2024-02-27 16:29:08,686 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:08,860 - INFO - --> Send Data SN:  21031810050123071680338292
+2024-02-27 16:29:10,125 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:10,126 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:10,126 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:10,172 - INFO - --> RESULT SCAN
+2024-02-27 16:29:10,172 - INFO - PASS SCAN
+2024-02-27 16:29:10,172 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:10,343 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 16:29:11,591 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:11,592 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:11,592 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:11,640 - INFO - --> RESULT SCAN
+2024-02-27 16:29:11,640 - INFO - PASS SCAN
+2024-02-27 16:29:11,640 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:11,810 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:29:13,143 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:13,143 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:13,143 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:13,185 - INFO - --> RESULT SCAN
+2024-02-27 16:29:13,185 - INFO - PASS SCAN
+2024-02-27 16:29:13,185 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:13,360 - INFO - --> Send Data SN:  21031810050123071680334733
+2024-02-27 16:29:14,612 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:14,613 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:14,613 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:14,651 - INFO - --> RESULT SCAN
+2024-02-27 16:29:14,651 - INFO - PASS SCAN
+2024-02-27 16:29:14,651 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:14,819 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 16:29:17,027 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:29:20,053 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:20,053 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:20,053 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:20,108 - INFO - --> RESULT SCAN
+2024-02-27 16:29:20,108 - INFO - PASS SCAN
+2024-02-27 16:29:20,108 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:20,282 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 16:29:21,533 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:21,533 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:21,533 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:21,583 - INFO - --> RESULT SCAN
+2024-02-27 16:29:21,583 - INFO - PASS SCAN
+2024-02-27 16:29:21,583 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:21,756 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 16:29:23,042 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:23,043 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:23,043 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:23,080 - INFO - --> RESULT SCAN
+2024-02-27 16:29:23,080 - INFO - PASS SCAN
+2024-02-27 16:29:23,080 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:23,250 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 16:29:25,482 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:29:26,832 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:26,833 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:26,833 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:26,881 - INFO - --> RESULT SCAN
+2024-02-27 16:29:26,881 - INFO - PASS SCAN
+2024-02-27 16:29:26,881 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:27,055 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 16:29:28,303 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:28,303 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:28,304 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:28,360 - INFO - --> RESULT SCAN
+2024-02-27 16:29:28,360 - INFO - PASS SCAN
+2024-02-27 16:29:28,360 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:28,535 - INFO - --> Send Data SN:  21031810050123071680334735
+2024-02-27 16:29:29,792 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:29,792 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:29,792 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:29,836 - INFO - --> RESULT SCAN
+2024-02-27 16:29:29,836 - INFO - PASS SCAN
+2024-02-27 16:29:29,836 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:30,008 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 16:29:32,228 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:29:33,172 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:33,172 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:33,173 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:33,216 - INFO - --> RESULT SCAN
+2024-02-27 16:29:33,216 - INFO - PASS SCAN
+2024-02-27 16:29:33,216 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:33,387 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 16:29:35,595 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:29:37,272 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:37,272 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:37,273 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:37,325 - INFO - --> RESULT SCAN
+2024-02-27 16:29:37,325 - INFO - PASS SCAN
+2024-02-27 16:29:37,325 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:37,494 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 16:29:38,870 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:38,871 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:38,871 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:38,913 - INFO - --> RESULT SCAN
+2024-02-27 16:29:38,913 - INFO - PASS SCAN
+2024-02-27 16:29:38,913 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:39,087 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:29:40,382 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:40,382 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:40,382 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:40,427 - INFO - --> RESULT SCAN
+2024-02-27 16:29:40,428 - INFO - PASS SCAN
+2024-02-27 16:29:40,428 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:40,600 - INFO - --> Send Data SN:  21031810050123071680338294
+2024-02-27 16:29:41,881 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:41,881 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:41,882 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:41,925 - INFO - --> RESULT SCAN
+2024-02-27 16:29:41,925 - INFO - PASS SCAN
+2024-02-27 16:29:41,925 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:42,103 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 16:29:43,363 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:43,363 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:43,363 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:43,413 - INFO - --> RESULT SCAN
+2024-02-27 16:29:43,414 - INFO - PASS SCAN
+2024-02-27 16:29:43,414 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:43,588 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:29:44,851 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:44,851 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:44,851 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:44,890 - INFO - --> RESULT SCAN
+2024-02-27 16:29:44,890 - INFO - PASS SCAN
+2024-02-27 16:29:44,891 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:45,067 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 16:29:46,332 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:46,332 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:46,333 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:46,363 - INFO - --> RESULT SCAN
+2024-02-27 16:29:46,364 - INFO - PASS SCAN
+2024-02-27 16:29:46,364 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:29:46,537 - INFO - --> Send Data SN:  21031810050123071680334718
+2024-02-27 16:29:47,911 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:29:47,912 - INFO - --> Received scan signal from PLC
+2024-02-27 16:29:47,912 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:29:54,025 - INFO - --> RESULT SCAN
+2024-02-27 16:29:54,025 - ERROR - FAILED
+2024-02-27 16:29:54,047 - ERROR - ------FAIL SCAN-------
+2024-02-27 16:29:54,047 - ERROR - Data SN: None
+2024-02-27 16:30:58,728 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:30:58,729 - INFO - --> Received scan signal from PLC
+2024-02-27 16:30:58,729 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:30:58,782 - INFO - --> RESULT SCAN
+2024-02-27 16:30:58,782 - INFO - PASS SCAN
+2024-02-27 16:30:58,782 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:30:58,956 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:31:00,230 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:00,230 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:00,230 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:00,282 - INFO - --> RESULT SCAN
+2024-02-27 16:31:00,282 - INFO - PASS SCAN
+2024-02-27 16:31:00,283 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:00,463 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 16:31:01,741 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:01,742 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:01,742 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:01,779 - INFO - --> RESULT SCAN
+2024-02-27 16:31:01,779 - INFO - PASS SCAN
+2024-02-27 16:31:01,779 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:01,950 - INFO - --> Send Data SN:  21031810050123071680334729
+2024-02-27 16:31:03,249 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:03,249 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:03,250 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:03,283 - INFO - --> RESULT SCAN
+2024-02-27 16:31:03,283 - INFO - PASS SCAN
+2024-02-27 16:31:03,283 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:03,462 - INFO - --> Send Data SN:  21031810050123071680338292
+2024-02-27 16:31:04,729 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:04,729 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:04,729 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:04,757 - INFO - --> RESULT SCAN
+2024-02-27 16:31:04,758 - INFO - PASS SCAN
+2024-02-27 16:31:04,758 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:04,932 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 16:31:06,240 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:06,241 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:06,241 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:06,283 - INFO - --> RESULT SCAN
+2024-02-27 16:31:06,283 - INFO - PASS SCAN
+2024-02-27 16:31:06,284 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:06,459 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:31:07,798 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:07,798 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:07,799 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:07,843 - INFO - --> RESULT SCAN
+2024-02-27 16:31:07,844 - INFO - PASS SCAN
+2024-02-27 16:31:07,844 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:08,014 - INFO - --> Send Data SN:  21031810050123071680334733
+2024-02-27 16:31:10,230 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:31:11,778 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:11,779 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:11,779 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:11,822 - INFO - --> RESULT SCAN
+2024-02-27 16:31:11,822 - INFO - PASS SCAN
+2024-02-27 16:31:11,823 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:11,996 - INFO - --> Send Data SN:  21031810050123071680334733
+2024-02-27 16:31:13,269 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:13,269 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:13,269 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:13,291 - INFO - --> RESULT SCAN
+2024-02-27 16:31:13,291 - INFO - PASS SCAN
+2024-02-27 16:31:13,291 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:13,469 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 16:31:15,673 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:31:19,069 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:19,069 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:19,069 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:19,114 - INFO - --> RESULT SCAN
+2024-02-27 16:31:19,115 - INFO - PASS SCAN
+2024-02-27 16:31:19,115 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:19,289 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 16:31:20,578 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:20,578 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:20,579 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:20,631 - INFO - --> RESULT SCAN
+2024-02-27 16:31:20,632 - INFO - PASS SCAN
+2024-02-27 16:31:20,634 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:20,807 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 16:31:22,107 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:22,107 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:22,108 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:22,142 - INFO - --> RESULT SCAN
+2024-02-27 16:31:22,143 - INFO - PASS SCAN
+2024-02-27 16:31:22,143 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:22,316 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 16:31:23,581 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:23,581 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:23,581 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:23,617 - INFO - --> RESULT SCAN
+2024-02-27 16:31:23,618 - INFO - PASS SCAN
+2024-02-27 16:31:23,618 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:23,791 - INFO - --> Send Data SN:  21031810050123071680334735
+2024-02-27 16:31:25,088 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:25,088 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:25,088 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:25,126 - INFO - --> RESULT SCAN
+2024-02-27 16:31:25,127 - INFO - PASS SCAN
+2024-02-27 16:31:25,127 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:25,298 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 16:31:26,678 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:26,678 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:26,678 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:26,726 - INFO - --> RESULT SCAN
+2024-02-27 16:31:26,727 - INFO - PASS SCAN
+2024-02-27 16:31:26,727 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:26,903 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:31:28,147 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:28,147 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:28,147 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:28,180 - INFO - --> RESULT SCAN
+2024-02-27 16:31:28,180 - INFO - PASS SCAN
+2024-02-27 16:31:28,180 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:28,351 - INFO - --> Send Data SN:  21031810050123071680338294
+2024-02-27 16:31:29,609 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:29,609 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:29,609 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:29,653 - INFO - --> RESULT SCAN
+2024-02-27 16:31:29,654 - INFO - PASS SCAN
+2024-02-27 16:31:29,654 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:29,825 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 16:31:31,100 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:31,101 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:31,101 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:31,144 - INFO - --> RESULT SCAN
+2024-02-27 16:31:31,144 - INFO - PASS SCAN
+2024-02-27 16:31:31,144 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:31,312 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:31:33,532 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:31:34,248 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:34,248 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:34,248 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:34,270 - INFO - --> RESULT SCAN
+2024-02-27 16:31:34,270 - INFO - PASS SCAN
+2024-02-27 16:31:34,270 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:34,442 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:31:35,779 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:35,780 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:35,780 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:35,822 - INFO - --> RESULT SCAN
+2024-02-27 16:31:35,823 - INFO - PASS SCAN
+2024-02-27 16:31:35,823 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:35,995 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 16:31:37,268 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:37,268 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:37,269 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:37,316 - INFO - --> RESULT SCAN
+2024-02-27 16:31:37,317 - INFO - PASS SCAN
+2024-02-27 16:31:37,317 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:31:37,493 - INFO - --> Send Data SN:  21031810050123071680334718
+2024-02-27 16:31:38,839 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:31:38,839 - INFO - --> Received scan signal from PLC
+2024-02-27 16:31:38,839 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:31:44,921 - INFO - --> RESULT SCAN
+2024-02-27 16:31:44,921 - ERROR - FAILED
+2024-02-27 16:31:44,942 - ERROR - ------FAIL SCAN-------
+2024-02-27 16:31:44,942 - ERROR - Data SN: None
+2024-02-27 16:32:00,271 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:00,271 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:00,271 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:00,315 - INFO - --> RESULT SCAN
+2024-02-27 16:32:00,315 - INFO - PASS SCAN
+2024-02-27 16:32:00,315 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:00,487 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:32:02,698 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:32:03,527 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:03,528 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:03,529 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:03,575 - INFO - --> RESULT SCAN
+2024-02-27 16:32:03,575 - INFO - PASS SCAN
+2024-02-27 16:32:03,575 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:03,745 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:32:05,050 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:05,050 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:05,050 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:05,082 - INFO - --> RESULT SCAN
+2024-02-27 16:32:05,083 - INFO - PASS SCAN
+2024-02-27 16:32:05,083 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:05,254 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 16:32:06,517 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:06,518 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:06,518 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:06,556 - INFO - --> RESULT SCAN
+2024-02-27 16:32:06,556 - INFO - PASS SCAN
+2024-02-27 16:32:06,556 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:06,729 - INFO - --> Send Data SN:  21031810050123071680334729
+2024-02-27 16:32:08,007 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:08,007 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:08,007 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:08,055 - INFO - --> RESULT SCAN
+2024-02-27 16:32:08,056 - INFO - PASS SCAN
+2024-02-27 16:32:08,056 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:08,231 - INFO - --> Send Data SN:  21031810050123071680338292
+2024-02-27 16:32:09,496 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:09,497 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:09,497 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:09,544 - INFO - --> RESULT SCAN
+2024-02-27 16:32:09,545 - INFO - PASS SCAN
+2024-02-27 16:32:09,545 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:09,718 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 16:32:11,949 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:32:12,536 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:12,536 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:12,536 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:12,582 - INFO - --> RESULT SCAN
+2024-02-27 16:32:12,582 - INFO - PASS SCAN
+2024-02-27 16:32:12,582 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:12,754 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 16:32:14,007 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:14,007 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:14,007 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:14,054 - INFO - --> RESULT SCAN
+2024-02-27 16:32:14,054 - INFO - PASS SCAN
+2024-02-27 16:32:14,054 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:14,228 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:32:16,434 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:32:16,956 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:16,956 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:16,956 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:16,981 - INFO - --> RESULT SCAN
+2024-02-27 16:32:16,982 - INFO - PASS SCAN
+2024-02-27 16:32:16,982 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:17,157 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:32:19,404 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:32:22,169 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:22,170 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:22,170 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:22,206 - INFO - --> RESULT SCAN
+2024-02-27 16:32:22,207 - INFO - PASS SCAN
+2024-02-27 16:32:22,207 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:22,380 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:32:24,640 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:32:27,668 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:27,668 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:27,668 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:27,720 - INFO - --> RESULT SCAN
+2024-02-27 16:32:27,720 - INFO - PASS SCAN
+2024-02-27 16:32:27,720 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:27,888 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:32:29,216 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:29,217 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:29,217 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:29,262 - INFO - --> RESULT SCAN
+2024-02-27 16:32:29,263 - INFO - PASS SCAN
+2024-02-27 16:32:29,263 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:29,435 - INFO - --> Send Data SN:  21031810050123071680334733
+2024-02-27 16:32:30,708 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:30,708 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:30,708 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:30,749 - INFO - --> RESULT SCAN
+2024-02-27 16:32:30,749 - INFO - PASS SCAN
+2024-02-27 16:32:30,750 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:30,920 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 16:32:32,198 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:32,198 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:32,198 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:32,248 - INFO - --> RESULT SCAN
+2024-02-27 16:32:32,249 - INFO - PASS SCAN
+2024-02-27 16:32:32,249 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:32,419 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 16:32:33,737 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:33,737 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:33,737 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:33,789 - INFO - --> RESULT SCAN
+2024-02-27 16:32:33,789 - INFO - PASS SCAN
+2024-02-27 16:32:33,789 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:33,968 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 16:32:35,216 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:35,216 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:35,216 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:35,262 - INFO - --> RESULT SCAN
+2024-02-27 16:32:35,262 - INFO - PASS SCAN
+2024-02-27 16:32:35,262 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:35,433 - INFO - --> Send Data SN:  21031810050123071680334735
+2024-02-27 16:32:37,680 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:32:38,948 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:38,949 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:38,949 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:38,986 - INFO - --> RESULT SCAN
+2024-02-27 16:32:38,987 - INFO - PASS SCAN
+2024-02-27 16:32:38,987 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:39,163 - INFO - --> Send Data SN:  21031810050123071680334735
+2024-02-27 16:32:40,456 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:40,457 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:40,457 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:40,499 - INFO - --> RESULT SCAN
+2024-02-27 16:32:40,500 - INFO - PASS SCAN
+2024-02-27 16:32:40,500 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:40,672 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 16:32:42,006 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:42,007 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:42,007 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:42,056 - INFO - --> RESULT SCAN
+2024-02-27 16:32:42,056 - INFO - PASS SCAN
+2024-02-27 16:32:42,056 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:42,228 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:32:43,486 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:43,486 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:43,487 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:43,527 - INFO - --> RESULT SCAN
+2024-02-27 16:32:43,527 - INFO - PASS SCAN
+2024-02-27 16:32:43,527 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:43,705 - INFO - --> Send Data SN:  21031810050123071680338294
+2024-02-27 16:32:45,931 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:32:46,616 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:46,616 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:46,616 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:46,639 - INFO - --> RESULT SCAN
+2024-02-27 16:32:46,639 - INFO - PASS SCAN
+2024-02-27 16:32:46,639 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:46,817 - INFO - --> Send Data SN:  21031810050123071680338294
+2024-02-27 16:32:48,110 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:48,110 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:48,110 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:48,154 - INFO - --> RESULT SCAN
+2024-02-27 16:32:48,154 - INFO - PASS SCAN
+2024-02-27 16:32:48,154 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:48,323 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 16:32:49,605 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:49,606 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:49,606 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:49,659 - INFO - --> RESULT SCAN
+2024-02-27 16:32:49,659 - INFO - PASS SCAN
+2024-02-27 16:32:49,659 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:49,833 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:32:51,137 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:51,137 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:51,137 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:51,190 - INFO - --> RESULT SCAN
+2024-02-27 16:32:51,190 - INFO - PASS SCAN
+2024-02-27 16:32:51,190 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:51,359 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 16:32:53,563 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:32:54,696 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:54,696 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:54,697 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:54,744 - INFO - --> RESULT SCAN
+2024-02-27 16:32:54,744 - INFO - PASS SCAN
+2024-02-27 16:32:54,744 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:54,915 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 16:32:56,215 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:56,215 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:56,215 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:32:56,260 - INFO - --> RESULT SCAN
+2024-02-27 16:32:56,260 - INFO - PASS SCAN
+2024-02-27 16:32:56,261 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:32:56,434 - INFO - --> Send Data SN:  21031810050123071680334718
+2024-02-27 16:32:57,775 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:32:57,776 - INFO - --> Received scan signal from PLC
+2024-02-27 16:32:57,776 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:01,534 - WARNING - Received signal PLC when program is processing.
+2024-02-27 16:33:03,886 - INFO - --> RESULT SCAN
+2024-02-27 16:33:03,886 - ERROR - FAILED
+2024-02-27 16:33:03,913 - ERROR - ------FAIL SCAN-------
+2024-02-27 16:33:03,913 - ERROR - Data SN: None
+2024-02-27 16:33:16,465 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:16,466 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:16,466 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:16,512 - INFO - --> RESULT SCAN
+2024-02-27 16:33:16,512 - INFO - PASS SCAN
+2024-02-27 16:33:16,513 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:16,684 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:33:17,975 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:17,976 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:17,976 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:18,010 - INFO - --> RESULT SCAN
+2024-02-27 16:33:18,010 - INFO - PASS SCAN
+2024-02-27 16:33:18,010 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:18,185 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 16:33:19,475 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:19,475 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:19,476 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:19,511 - INFO - --> RESULT SCAN
+2024-02-27 16:33:19,511 - INFO - PASS SCAN
+2024-02-27 16:33:19,511 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:19,686 - INFO - --> Send Data SN:  21031810050123071680334729
+2024-02-27 16:33:20,944 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:20,944 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:20,945 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:20,978 - INFO - --> RESULT SCAN
+2024-02-27 16:33:20,979 - INFO - PASS SCAN
+2024-02-27 16:33:20,979 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:21,155 - INFO - --> Send Data SN:  21031810050123071680338292
+2024-02-27 16:33:22,434 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:22,435 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:22,435 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:22,475 - INFO - --> RESULT SCAN
+2024-02-27 16:33:22,475 - INFO - PASS SCAN
+2024-02-27 16:33:22,476 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:22,649 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 16:33:23,895 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:23,896 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:23,896 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:23,925 - INFO - --> RESULT SCAN
+2024-02-27 16:33:23,925 - INFO - PASS SCAN
+2024-02-27 16:33:23,925 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:24,104 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:33:26,349 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:33:27,154 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:27,154 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:27,155 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:27,190 - INFO - --> RESULT SCAN
+2024-02-27 16:33:27,190 - INFO - PASS SCAN
+2024-02-27 16:33:27,190 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:27,366 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:33:29,616 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:33:30,545 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:30,545 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:30,546 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:30,587 - INFO - --> RESULT SCAN
+2024-02-27 16:33:30,587 - INFO - PASS SCAN
+2024-02-27 16:33:30,587 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:30,765 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:33:32,104 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:32,105 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:32,105 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:32,138 - INFO - --> RESULT SCAN
+2024-02-27 16:33:32,139 - INFO - PASS SCAN
+2024-02-27 16:33:32,139 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:32,312 - INFO - --> Send Data SN:  21031810050123071680334733
+2024-02-27 16:33:33,555 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:33,555 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:33,556 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:33,601 - INFO - --> RESULT SCAN
+2024-02-27 16:33:33,601 - INFO - PASS SCAN
+2024-02-27 16:33:33,601 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:33,776 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 16:33:35,065 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:35,065 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:35,065 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:35,106 - INFO - --> RESULT SCAN
+2024-02-27 16:33:35,106 - INFO - PASS SCAN
+2024-02-27 16:33:35,106 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:35,288 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 16:33:36,547 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:36,548 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:36,548 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:36,595 - INFO - --> RESULT SCAN
+2024-02-27 16:33:36,595 - INFO - PASS SCAN
+2024-02-27 16:33:36,595 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:36,773 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 16:33:38,078 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:38,078 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:38,078 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:38,125 - INFO - --> RESULT SCAN
+2024-02-27 16:33:38,125 - INFO - PASS SCAN
+2024-02-27 16:33:38,125 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:38,299 - INFO - --> Send Data SN:  21031810050123071680334735
+2024-02-27 16:33:40,505 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:33:41,144 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:41,144 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:41,145 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:41,186 - INFO - --> RESULT SCAN
+2024-02-27 16:33:41,186 - INFO - PASS SCAN
+2024-02-27 16:33:41,187 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:41,360 - INFO - --> Send Data SN:  21031810050123071680334735
+2024-02-27 16:33:42,613 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:42,614 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:42,614 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:42,643 - INFO - --> RESULT SCAN
+2024-02-27 16:33:42,643 - INFO - PASS SCAN
+2024-02-27 16:33:42,643 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:42,818 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 16:33:44,145 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:44,145 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:44,145 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:44,190 - INFO - --> RESULT SCAN
+2024-02-27 16:33:44,190 - INFO - PASS SCAN
+2024-02-27 16:33:44,190 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:44,361 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:33:46,587 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:33:47,084 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:47,085 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:47,085 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:47,130 - INFO - --> RESULT SCAN
+2024-02-27 16:33:47,130 - INFO - PASS SCAN
+2024-02-27 16:33:47,130 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:47,304 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:33:49,527 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:33:50,384 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:50,385 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:50,385 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:50,430 - INFO - --> RESULT SCAN
+2024-02-27 16:33:50,430 - INFO - PASS SCAN
+2024-02-27 16:33:50,430 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:50,599 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:33:51,872 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:51,873 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:51,873 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:51,909 - INFO - --> RESULT SCAN
+2024-02-27 16:33:51,909 - INFO - PASS SCAN
+2024-02-27 16:33:51,909 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:52,084 - INFO - --> Send Data SN:  21031810050123071680338294
+2024-02-27 16:33:53,383 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:53,384 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:53,384 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:53,439 - INFO - --> RESULT SCAN
+2024-02-27 16:33:53,439 - INFO - PASS SCAN
+2024-02-27 16:33:53,439 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:53,611 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 16:33:55,846 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:33:56,764 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:56,764 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:56,764 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:56,805 - INFO - --> RESULT SCAN
+2024-02-27 16:33:56,805 - INFO - PASS SCAN
+2024-02-27 16:33:56,805 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:56,975 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 16:33:58,225 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:58,225 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:58,226 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:58,271 - INFO - --> RESULT SCAN
+2024-02-27 16:33:58,271 - INFO - PASS SCAN
+2024-02-27 16:33:58,271 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:58,442 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:33:59,733 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:33:59,734 - INFO - --> Received scan signal from PLC
+2024-02-27 16:33:59,734 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:33:59,774 - INFO - --> RESULT SCAN
+2024-02-27 16:33:59,775 - INFO - PASS SCAN
+2024-02-27 16:33:59,775 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:33:59,949 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 16:34:02,188 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:34:02,754 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:02,755 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:02,755 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:34:02,794 - INFO - --> RESULT SCAN
+2024-02-27 16:34:02,794 - INFO - PASS SCAN
+2024-02-27 16:34:02,794 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:34:02,967 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 16:34:05,188 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:34:06,093 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:06,093 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:06,093 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:34:06,134 - INFO - --> RESULT SCAN
+2024-02-27 16:34:06,134 - INFO - PASS SCAN
+2024-02-27 16:34:06,134 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:34:06,304 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 16:34:08,537 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:34:08,953 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:08,953 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:08,953 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:34:08,975 - INFO - --> RESULT SCAN
+2024-02-27 16:34:08,975 - INFO - PASS SCAN
+2024-02-27 16:34:08,975 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:34:09,145 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 16:34:10,434 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:10,434 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:10,434 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:34:10,475 - INFO - --> RESULT SCAN
+2024-02-27 16:34:10,476 - INFO - PASS SCAN
+2024-02-27 16:34:10,476 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:34:10,648 - INFO - --> Send Data SN:  21031810050123071680334718
+2024-02-27 16:34:12,014 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:12,014 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:12,014 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:34:14,692 - WARNING - Received signal PLC when program is processing.
+2024-02-27 16:34:18,090 - INFO - --> RESULT SCAN
+2024-02-27 16:34:18,090 - ERROR - FAILED
+2024-02-27 16:34:18,109 - ERROR - ------FAIL SCAN-------
+2024-02-27 16:34:18,109 - ERROR - Data SN: None
+2024-02-27 16:34:30,771 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:30,772 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:30,772 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:34:30,813 - INFO - --> RESULT SCAN
+2024-02-27 16:34:30,813 - INFO - PASS SCAN
+2024-02-27 16:34:30,813 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:34:30,985 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:34:33,207 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:34:36,884 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:36,884 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:36,885 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:34:36,941 - INFO - --> RESULT SCAN
+2024-02-27 16:34:36,941 - INFO - PASS SCAN
+2024-02-27 16:34:36,941 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:34:37,115 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:34:39,325 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:34:40,001 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:40,002 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:40,002 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:34:40,037 - INFO - --> RESULT SCAN
+2024-02-27 16:34:40,037 - INFO - PASS SCAN
+2024-02-27 16:34:40,037 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:34:40,211 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:34:41,492 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:41,493 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:41,493 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:34:43,817 - INFO - --> RESULT SCAN
+2024-02-27 16:34:43,817 - INFO - PASS SCAN
+2024-02-27 16:34:43,817 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:34:43,986 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 16:34:46,230 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:34:46,352 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:46,352 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:46,353 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:34:46,389 - INFO - --> RESULT SCAN
+2024-02-27 16:34:46,389 - INFO - PASS SCAN
+2024-02-27 16:34:46,389 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:34:46,562 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 16:34:47,852 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:47,852 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:47,852 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:34:50,466 - INFO - --> RESULT SCAN
+2024-02-27 16:34:50,466 - INFO - PASS SCAN
+2024-02-27 16:34:50,466 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:34:50,640 - INFO - --> Send Data SN:  21031810050123071680334729
+2024-02-27 16:34:51,903 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:51,903 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:51,903 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:34:54,177 - INFO - --> RESULT SCAN
+2024-02-27 16:34:54,177 - INFO - PASS SCAN
+2024-02-27 16:34:54,178 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:34:54,351 - INFO - --> Send Data SN:  21031810050123071680338292
+2024-02-27 16:34:55,612 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:55,612 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:55,613 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:34:57,884 - INFO - --> RESULT SCAN
+2024-02-27 16:34:57,884 - INFO - PASS SCAN
+2024-02-27 16:34:57,884 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:34:58,057 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 16:34:59,355 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:34:59,356 - INFO - --> Received scan signal from PLC
+2024-02-27 16:34:59,356 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:01,352 - INFO - --> RESULT SCAN
+2024-02-27 16:35:01,352 - INFO - PASS SCAN
+2024-02-27 16:35:01,353 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:01,526 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:35:02,943 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:02,943 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:02,943 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:02,987 - INFO - --> RESULT SCAN
+2024-02-27 16:35:02,987 - INFO - PASS SCAN
+2024-02-27 16:35:02,987 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:03,158 - INFO - --> Send Data SN:  21031810050123071680334733
+2024-02-27 16:35:04,461 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:04,462 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:04,462 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:07,140 - INFO - --> RESULT SCAN
+2024-02-27 16:35:07,141 - INFO - PASS SCAN
+2024-02-27 16:35:07,141 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:07,312 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 16:35:09,551 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:35:12,460 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:12,461 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:12,461 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:14,535 - INFO - --> RESULT SCAN
+2024-02-27 16:35:14,535 - INFO - PASS SCAN
+2024-02-27 16:35:14,536 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:14,710 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 16:35:15,964 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:15,964 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:15,965 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:18,763 - INFO - --> RESULT SCAN
+2024-02-27 16:35:18,763 - INFO - PASS SCAN
+2024-02-27 16:35:18,763 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:18,937 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 16:35:20,231 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:20,232 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:20,232 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:23,033 - INFO - --> RESULT SCAN
+2024-02-27 16:35:23,033 - INFO - PASS SCAN
+2024-02-27 16:35:23,033 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:23,208 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 16:35:25,417 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:35:26,461 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:26,461 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:26,461 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:26,497 - INFO - --> RESULT SCAN
+2024-02-27 16:35:26,497 - INFO - PASS SCAN
+2024-02-27 16:35:26,497 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:26,668 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 16:35:27,961 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:27,962 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:27,962 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:31,140 - INFO - --> RESULT SCAN
+2024-02-27 16:35:31,140 - INFO - PASS SCAN
+2024-02-27 16:35:31,140 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:31,309 - INFO - --> Send Data SN:  21031810050123071680334735
+2024-02-27 16:35:32,610 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:32,611 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:32,611 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:35,670 - INFO - --> RESULT SCAN
+2024-02-27 16:35:35,671 - INFO - PASS SCAN
+2024-02-27 16:35:35,671 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:35,843 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 16:35:38,091 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:35:38,920 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:38,920 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:38,921 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:38,971 - INFO - --> RESULT SCAN
+2024-02-27 16:35:38,971 - INFO - PASS SCAN
+2024-02-27 16:35:38,971 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:39,140 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 16:35:40,500 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:40,501 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:40,501 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:43,411 - INFO - --> RESULT SCAN
+2024-02-27 16:35:43,411 - INFO - PASS SCAN
+2024-02-27 16:35:43,411 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:43,585 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:35:45,822 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:35:46,394 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:46,394 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:46,395 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:48,790 - INFO - --> RESULT SCAN
+2024-02-27 16:35:48,790 - INFO - PASS SCAN
+2024-02-27 16:35:48,791 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:48,963 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:35:51,211 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:35:51,960 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:51,960 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:51,960 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:54,133 - INFO - --> RESULT SCAN
+2024-02-27 16:35:54,134 - INFO - PASS SCAN
+2024-02-27 16:35:54,134 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:54,302 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:35:55,551 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:55,551 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:55,552 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:55,591 - INFO - --> RESULT SCAN
+2024-02-27 16:35:55,591 - INFO - PASS SCAN
+2024-02-27 16:35:55,591 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:55,764 - INFO - --> Send Data SN:  21031810050123071680338294
+2024-02-27 16:35:57,020 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:35:57,020 - INFO - --> Received scan signal from PLC
+2024-02-27 16:35:57,020 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:35:57,070 - INFO - --> RESULT SCAN
+2024-02-27 16:35:57,070 - INFO - PASS SCAN
+2024-02-27 16:35:57,070 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:35:57,237 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 16:35:59,466 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:36:00,642 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:36:00,642 - INFO - --> Received scan signal from PLC
+2024-02-27 16:36:00,642 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:36:00,684 - INFO - --> RESULT SCAN
+2024-02-27 16:36:00,685 - INFO - PASS SCAN
+2024-02-27 16:36:00,685 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:36:00,862 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 16:36:03,098 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:36:03,989 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:36:03,990 - INFO - --> Received scan signal from PLC
+2024-02-27 16:36:03,990 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:36:04,033 - INFO - --> RESULT SCAN
+2024-02-27 16:36:04,034 - INFO - PASS SCAN
+2024-02-27 16:36:04,034 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:36:04,204 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 16:36:05,459 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:36:05,460 - INFO - --> Received scan signal from PLC
+2024-02-27 16:36:05,460 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:36:05,503 - INFO - --> RESULT SCAN
+2024-02-27 16:36:05,504 - INFO - PASS SCAN
+2024-02-27 16:36:05,504 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:36:05,675 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:36:07,892 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:36:10,022 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:36:10,022 - INFO - --> Received scan signal from PLC
+2024-02-27 16:36:10,022 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:36:10,058 - INFO - --> RESULT SCAN
+2024-02-27 16:36:10,058 - INFO - PASS SCAN
+2024-02-27 16:36:10,058 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:36:10,228 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:36:12,440 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:36:13,398 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:36:13,399 - INFO - --> Received scan signal from PLC
+2024-02-27 16:36:13,399 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:36:13,443 - INFO - --> RESULT SCAN
+2024-02-27 16:36:13,444 - INFO - PASS SCAN
+2024-02-27 16:36:13,444 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:36:13,617 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:36:14,909 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:36:14,909 - INFO - --> Received scan signal from PLC
+2024-02-27 16:36:14,909 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:36:14,947 - INFO - --> RESULT SCAN
+2024-02-27 16:36:14,948 - INFO - PASS SCAN
+2024-02-27 16:36:14,948 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:36:15,121 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 16:36:16,389 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:36:16,390 - INFO - --> Received scan signal from PLC
+2024-02-27 16:36:16,390 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:36:16,439 - INFO - --> RESULT SCAN
+2024-02-27 16:36:16,439 - INFO - PASS SCAN
+2024-02-27 16:36:16,439 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:36:16,613 - INFO - --> Send Data SN:  21031810050123071680334718
+2024-02-27 16:36:17,959 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:36:17,959 - INFO - --> Received scan signal from PLC
+2024-02-27 16:36:17,959 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:36:24,042 - INFO - --> RESULT SCAN
+2024-02-27 16:36:24,042 - ERROR - FAILED
+2024-02-27 16:36:24,062 - ERROR - ------FAIL SCAN-------
+2024-02-27 16:36:24,062 - ERROR - Data SN: None
+2024-02-27 16:37:01,279 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:01,279 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:01,279 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:01,332 - INFO - --> RESULT SCAN
+2024-02-27 16:37:01,332 - INFO - PASS SCAN
+2024-02-27 16:37:01,332 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:01,502 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:37:03,720 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:37:06,717 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:06,717 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:06,717 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:06,764 - INFO - --> RESULT SCAN
+2024-02-27 16:37:06,764 - INFO - PASS SCAN
+2024-02-27 16:37:06,764 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:06,936 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:37:08,206 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:08,207 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:08,207 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:08,246 - INFO - --> RESULT SCAN
+2024-02-27 16:37:08,247 - INFO - PASS SCAN
+2024-02-27 16:37:08,247 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:08,418 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 16:37:09,677 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:09,677 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:09,677 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:09,730 - INFO - --> RESULT SCAN
+2024-02-27 16:37:09,730 - INFO - PASS SCAN
+2024-02-27 16:37:09,730 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:09,899 - INFO - --> Send Data SN:  21031810050123071680334729
+2024-02-27 16:37:11,158 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:11,159 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:11,159 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:11,200 - INFO - --> RESULT SCAN
+2024-02-27 16:37:11,201 - INFO - PASS SCAN
+2024-02-27 16:37:11,201 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:11,376 - INFO - --> Send Data SN:  21031810050123071680338292
+2024-02-27 16:37:12,626 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:12,627 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:12,627 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:12,664 - INFO - --> RESULT SCAN
+2024-02-27 16:37:12,664 - INFO - PASS SCAN
+2024-02-27 16:37:12,665 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:12,836 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 16:37:14,116 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:14,117 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:14,117 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:14,164 - INFO - --> RESULT SCAN
+2024-02-27 16:37:14,164 - INFO - PASS SCAN
+2024-02-27 16:37:14,164 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:14,334 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:37:15,669 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:15,669 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:15,670 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:15,717 - INFO - --> RESULT SCAN
+2024-02-27 16:37:15,719 - INFO - PASS SCAN
+2024-02-27 16:37:15,719 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:15,891 - INFO - --> Send Data SN:  21031810050123071680334733
+2024-02-27 16:37:17,169 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:17,169 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:17,170 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:17,208 - INFO - --> RESULT SCAN
+2024-02-27 16:37:17,208 - INFO - PASS SCAN
+2024-02-27 16:37:17,208 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:17,382 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 16:37:18,667 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:18,668 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:18,668 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:18,720 - INFO - --> RESULT SCAN
+2024-02-27 16:37:18,720 - INFO - PASS SCAN
+2024-02-27 16:37:18,721 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:18,892 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 16:37:21,143 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:37:21,618 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:21,618 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:21,618 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:21,641 - INFO - --> RESULT SCAN
+2024-02-27 16:37:21,641 - INFO - PASS SCAN
+2024-02-27 16:37:21,641 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:21,817 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 16:37:24,053 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:37:26,127 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:26,127 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:26,127 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:26,173 - INFO - --> RESULT SCAN
+2024-02-27 16:37:26,173 - INFO - PASS SCAN
+2024-02-27 16:37:26,173 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:26,346 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 16:37:28,588 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:37:29,536 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:29,537 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:29,537 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:29,564 - INFO - --> RESULT SCAN
+2024-02-27 16:37:29,565 - INFO - PASS SCAN
+2024-02-27 16:37:29,565 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:29,740 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 16:37:31,057 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:31,058 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:31,058 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:31,097 - INFO - --> RESULT SCAN
+2024-02-27 16:37:31,097 - INFO - PASS SCAN
+2024-02-27 16:37:31,097 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:31,271 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 16:37:33,507 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:37:34,028 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:34,028 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:34,029 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:34,067 - INFO - --> RESULT SCAN
+2024-02-27 16:37:34,067 - INFO - PASS SCAN
+2024-02-27 16:37:34,067 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:34,238 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 16:37:35,486 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:35,487 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:35,487 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:35,526 - INFO - --> RESULT SCAN
+2024-02-27 16:37:35,526 - INFO - PASS SCAN
+2024-02-27 16:37:35,526 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:35,702 - INFO - --> Send Data SN:  21031810050123071680334735
+2024-02-27 16:37:36,997 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:36,997 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:36,998 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:37,030 - INFO - --> RESULT SCAN
+2024-02-27 16:37:37,030 - INFO - PASS SCAN
+2024-02-27 16:37:37,031 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:37,202 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 16:37:38,567 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:38,567 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:38,567 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:38,613 - INFO - --> RESULT SCAN
+2024-02-27 16:37:38,613 - INFO - PASS SCAN
+2024-02-27 16:37:38,613 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:38,790 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:37:40,036 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:40,037 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:40,037 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:40,081 - INFO - --> RESULT SCAN
+2024-02-27 16:37:40,082 - INFO - PASS SCAN
+2024-02-27 16:37:40,082 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:40,256 - INFO - --> Send Data SN:  21031810050123071680338294
+2024-02-27 16:37:41,546 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:41,546 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:41,546 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:41,584 - INFO - --> RESULT SCAN
+2024-02-27 16:37:41,584 - INFO - PASS SCAN
+2024-02-27 16:37:41,584 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:41,768 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 16:37:43,016 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:43,017 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:43,017 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:43,061 - INFO - --> RESULT SCAN
+2024-02-27 16:37:43,061 - INFO - PASS SCAN
+2024-02-27 16:37:43,062 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:43,233 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:37:45,446 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:37:46,065 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:46,066 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:46,066 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:46,119 - INFO - --> RESULT SCAN
+2024-02-27 16:37:46,119 - INFO - PASS SCAN
+2024-02-27 16:37:46,119 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:46,292 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:37:48,534 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:37:49,208 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:49,209 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:49,209 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:49,244 - INFO - --> RESULT SCAN
+2024-02-27 16:37:49,245 - INFO - PASS SCAN
+2024-02-27 16:37:49,245 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:49,419 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:37:50,676 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:50,676 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:50,677 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:50,710 - INFO - --> RESULT SCAN
+2024-02-27 16:37:50,710 - INFO - PASS SCAN
+2024-02-27 16:37:50,710 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:50,886 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 16:37:52,196 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:52,197 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:52,197 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:52,242 - INFO - --> RESULT SCAN
+2024-02-27 16:37:52,243 - INFO - PASS SCAN
+2024-02-27 16:37:52,243 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:37:52,414 - INFO - --> Send Data SN:  21031810050123071680334718
+2024-02-27 16:37:53,777 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:37:53,777 - INFO - --> Received scan signal from PLC
+2024-02-27 16:37:53,777 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:37:59,165 - WARNING - Received signal PLC when program is processing.
+2024-02-27 16:37:59,864 - INFO - --> RESULT SCAN
+2024-02-27 16:37:59,864 - ERROR - FAILED
+2024-02-27 16:37:59,885 - ERROR - ------FAIL SCAN-------
+2024-02-27 16:37:59,886 - ERROR - Data SN: None
+2024-02-27 16:38:02,197 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:38:02,197 - INFO - --> Received scan signal from PLC
+2024-02-27 16:38:02,197 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:39:15,264 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:39:15,264 - INFO - --> Received scan signal from PLC
+2024-02-27 16:39:15,265 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:39:15,306 - INFO - --> RESULT SCAN
+2024-02-27 16:39:15,306 - INFO - PASS SCAN
+2024-02-27 16:39:15,306 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:39:15,771 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:39:17,034 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:39:17,035 - INFO - --> Received scan signal from PLC
+2024-02-27 16:39:17,035 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:39:17,068 - INFO - --> RESULT SCAN
+2024-02-27 16:39:17,068 - INFO - PASS SCAN
+2024-02-27 16:39:17,068 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:39:17,243 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 16:39:18,495 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:39:18,495 - INFO - --> Received scan signal from PLC
+2024-02-27 16:39:18,495 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:39:18,540 - INFO - --> RESULT SCAN
+2024-02-27 16:39:18,540 - INFO - PASS SCAN
+2024-02-27 16:39:18,541 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:39:18,711 - INFO - --> Send Data SN:  21031810050123071680334729
+2024-02-27 16:39:19,964 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:39:19,964 - INFO - --> Received scan signal from PLC
+2024-02-27 16:39:19,964 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:39:20,000 - INFO - --> RESULT SCAN
+2024-02-27 16:39:20,001 - INFO - PASS SCAN
+2024-02-27 16:39:20,001 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:39:20,179 - INFO - --> Send Data SN:  21031810050123071680338292
+2024-02-27 16:39:22,407 - ERROR - SIGNAL FAIL CHECK CODE DATA FROM mes
+2024-02-27 16:40:30,273 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:30,273 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:30,274 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:30,327 - INFO - --> RESULT SCAN
+2024-02-27 16:40:30,328 - INFO - PASS SCAN
+2024-02-27 16:40:30,328 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:30,792 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:40:32,061 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:32,062 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:32,062 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:32,094 - INFO - --> RESULT SCAN
+2024-02-27 16:40:32,094 - INFO - PASS SCAN
+2024-02-27 16:40:32,095 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:32,272 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 16:40:33,521 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:33,522 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:33,522 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:33,564 - INFO - --> RESULT SCAN
+2024-02-27 16:40:33,564 - INFO - PASS SCAN
+2024-02-27 16:40:33,564 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:33,741 - INFO - --> Send Data SN:  21031810050123071680334729
+2024-02-27 16:40:35,051 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:35,052 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:35,052 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:35,093 - INFO - --> RESULT SCAN
+2024-02-27 16:40:35,093 - INFO - PASS SCAN
+2024-02-27 16:40:35,093 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:35,271 - INFO - --> Send Data SN:  21031810050123071680338292
+2024-02-27 16:40:36,531 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:36,531 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:36,531 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:36,560 - INFO - --> RESULT SCAN
+2024-02-27 16:40:36,560 - INFO - PASS SCAN
+2024-02-27 16:40:36,561 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:36,738 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 16:40:37,991 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:37,993 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:37,993 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:38,031 - INFO - --> RESULT SCAN
+2024-02-27 16:40:38,031 - INFO - PASS SCAN
+2024-02-27 16:40:38,031 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:38,206 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:40:39,591 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:39,591 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:39,592 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:39,643 - INFO - --> RESULT SCAN
+2024-02-27 16:40:39,644 - INFO - PASS SCAN
+2024-02-27 16:40:39,644 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:39,815 - INFO - --> Send Data SN:  21031810050123071680334733
+2024-02-27 16:40:41,070 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:41,071 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:41,071 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:41,115 - INFO - --> RESULT SCAN
+2024-02-27 16:40:41,115 - INFO - PASS SCAN
+2024-02-27 16:40:41,115 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:41,295 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 16:40:42,560 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:42,561 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:42,561 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:42,594 - INFO - --> RESULT SCAN
+2024-02-27 16:40:42,594 - INFO - PASS SCAN
+2024-02-27 16:40:42,594 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:42,768 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 16:40:44,014 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:44,014 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:44,014 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:44,063 - INFO - --> RESULT SCAN
+2024-02-27 16:40:44,063 - INFO - PASS SCAN
+2024-02-27 16:40:44,063 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:44,247 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 16:40:45,541 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:45,541 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:45,541 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:45,585 - INFO - --> RESULT SCAN
+2024-02-27 16:40:45,586 - INFO - PASS SCAN
+2024-02-27 16:40:45,586 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:45,762 - INFO - --> Send Data SN:  21031810050123071680334735
+2024-02-27 16:40:47,071 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:47,071 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:47,072 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:47,098 - INFO - --> RESULT SCAN
+2024-02-27 16:40:47,099 - INFO - PASS SCAN
+2024-02-27 16:40:47,099 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:47,272 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 16:40:48,632 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:48,632 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:48,633 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:48,674 - INFO - --> RESULT SCAN
+2024-02-27 16:40:48,674 - INFO - PASS SCAN
+2024-02-27 16:40:48,674 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:48,852 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:40:50,101 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:50,101 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:50,101 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:50,151 - INFO - --> RESULT SCAN
+2024-02-27 16:40:50,152 - INFO - PASS SCAN
+2024-02-27 16:40:50,152 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:50,328 - INFO - --> Send Data SN:  21031810050123071680338294
+2024-02-27 16:40:51,612 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:51,612 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:51,612 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:51,654 - INFO - --> RESULT SCAN
+2024-02-27 16:40:51,654 - INFO - PASS SCAN
+2024-02-27 16:40:51,654 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:51,829 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 16:40:53,090 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:53,091 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:53,091 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:53,123 - INFO - --> RESULT SCAN
+2024-02-27 16:40:53,123 - INFO - PASS SCAN
+2024-02-27 16:40:53,124 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:53,306 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:40:54,591 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:54,591 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:54,591 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:54,629 - INFO - --> RESULT SCAN
+2024-02-27 16:40:54,629 - INFO - PASS SCAN
+2024-02-27 16:40:54,630 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:54,807 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 16:40:56,123 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:56,123 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:56,123 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:40:56,158 - INFO - --> RESULT SCAN
+2024-02-27 16:40:56,158 - INFO - PASS SCAN
+2024-02-27 16:40:56,158 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:40:56,331 - INFO - --> Send Data SN:  21031810050123071680334718
+2024-02-27 16:40:57,680 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:40:57,680 - INFO - --> Received scan signal from PLC
+2024-02-27 16:40:57,680 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:41:02,060 - WARNING - Received signal PLC when program is processing.
+2024-02-27 16:41:03,777 - INFO - --> RESULT SCAN
+2024-02-27 16:41:03,777 - ERROR - FAILED
+2024-02-27 16:41:03,795 - ERROR - ------FAIL SCAN-------
+2024-02-27 16:41:03,796 - ERROR - Data SN: None
+2024-02-27 16:41:54,038 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:41:54,039 - INFO - --> Received scan signal from PLC
+2024-02-27 16:41:54,039 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:41:54,078 - INFO - --> RESULT SCAN
+2024-02-27 16:41:54,078 - INFO - PASS SCAN
+2024-02-27 16:41:54,078 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:41:54,263 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:41:55,539 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:41:55,540 - INFO - --> Received scan signal from PLC
+2024-02-27 16:41:55,540 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:41:55,575 - INFO - --> RESULT SCAN
+2024-02-27 16:41:55,575 - INFO - PASS SCAN
+2024-02-27 16:41:55,576 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:41:55,752 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 16:41:57,011 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:41:57,011 - INFO - --> Received scan signal from PLC
+2024-02-27 16:41:57,012 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:41:57,056 - INFO - --> RESULT SCAN
+2024-02-27 16:41:57,056 - INFO - PASS SCAN
+2024-02-27 16:41:57,057 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:41:57,237 - INFO - --> Send Data SN:  21031810050123071680334729
+2024-02-27 16:41:58,530 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:41:58,530 - INFO - --> Received scan signal from PLC
+2024-02-27 16:41:58,530 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:41:58,568 - INFO - --> RESULT SCAN
+2024-02-27 16:41:58,569 - INFO - PASS SCAN
+2024-02-27 16:41:58,569 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:41:58,745 - INFO - --> Send Data SN:  21031810050123071680338292
+2024-02-27 16:41:59,999 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:41:59,999 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:00,000 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:00,046 - INFO - --> RESULT SCAN
+2024-02-27 16:42:00,046 - INFO - PASS SCAN
+2024-02-27 16:42:00,046 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:00,226 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 16:42:01,559 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:01,559 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:01,560 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:01,600 - INFO - --> RESULT SCAN
+2024-02-27 16:42:01,600 - INFO - PASS SCAN
+2024-02-27 16:42:01,600 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:01,774 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:42:03,099 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:03,099 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:03,099 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:03,145 - INFO - --> RESULT SCAN
+2024-02-27 16:42:03,145 - INFO - PASS SCAN
+2024-02-27 16:42:03,145 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:03,328 - INFO - --> Send Data SN:  21031810050123071680334733
+2024-02-27 16:42:04,580 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:04,580 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:04,581 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:04,618 - INFO - --> RESULT SCAN
+2024-02-27 16:42:04,619 - INFO - PASS SCAN
+2024-02-27 16:42:04,619 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:04,793 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 16:42:06,068 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:06,068 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:06,069 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:06,116 - INFO - --> RESULT SCAN
+2024-02-27 16:42:06,116 - INFO - PASS SCAN
+2024-02-27 16:42:06,116 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:06,297 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 16:42:07,590 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:07,590 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:07,591 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:07,636 - INFO - --> RESULT SCAN
+2024-02-27 16:42:07,636 - INFO - PASS SCAN
+2024-02-27 16:42:07,637 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:07,814 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 16:42:09,148 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:09,148 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:09,148 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:09,171 - INFO - --> RESULT SCAN
+2024-02-27 16:42:09,171 - INFO - PASS SCAN
+2024-02-27 16:42:09,172 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:09,352 - INFO - --> Send Data SN:  21031810050123071680334735
+2024-02-27 16:42:10,659 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:10,659 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:10,660 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:10,705 - INFO - --> RESULT SCAN
+2024-02-27 16:42:10,705 - INFO - PASS SCAN
+2024-02-27 16:42:10,706 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:10,882 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 16:42:12,218 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:12,219 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:12,219 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:12,260 - INFO - --> RESULT SCAN
+2024-02-27 16:42:12,260 - INFO - PASS SCAN
+2024-02-27 16:42:12,261 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:12,437 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:42:13,687 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:13,687 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:13,688 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:13,726 - INFO - --> RESULT SCAN
+2024-02-27 16:42:13,727 - INFO - PASS SCAN
+2024-02-27 16:42:13,727 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:13,909 - INFO - --> Send Data SN:  21031810050123071680338294
+2024-02-27 16:42:15,199 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:15,199 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:15,199 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:15,240 - INFO - --> RESULT SCAN
+2024-02-27 16:42:15,241 - INFO - PASS SCAN
+2024-02-27 16:42:15,241 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:15,417 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 16:42:16,669 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:16,670 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:16,670 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:16,719 - INFO - --> RESULT SCAN
+2024-02-27 16:42:16,719 - INFO - PASS SCAN
+2024-02-27 16:42:16,720 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:16,898 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:42:18,159 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:18,159 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:18,159 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:18,206 - INFO - --> RESULT SCAN
+2024-02-27 16:42:18,206 - INFO - PASS SCAN
+2024-02-27 16:42:18,206 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:18,387 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 16:42:19,693 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:19,693 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:19,694 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:19,736 - INFO - --> RESULT SCAN
+2024-02-27 16:42:19,736 - INFO - PASS SCAN
+2024-02-27 16:42:19,736 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:42:19,911 - INFO - --> Send Data SN:  21031810050123071680334718
+2024-02-27 16:42:21,269 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:42:21,269 - INFO - --> Received scan signal from PLC
+2024-02-27 16:42:21,270 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:42:27,356 - INFO - --> RESULT SCAN
+2024-02-27 16:42:27,356 - ERROR - FAILED
+2024-02-27 16:42:27,376 - ERROR - ------FAIL SCAN-------
+2024-02-27 16:42:27,376 - ERROR - Data SN: None
+2024-02-27 16:45:49,662 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:45:49,662 - INFO - --> Received scan signal from PLC
+2024-02-27 16:45:49,662 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:45:49,705 - INFO - --> RESULT SCAN
+2024-02-27 16:45:49,705 - INFO - PASS SCAN
+2024-02-27 16:45:49,705 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:45:49,889 - INFO - --> Send Data SN:  21031810050123071680334729
+2024-02-27 16:45:51,153 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:45:51,153 - INFO - --> Received scan signal from PLC
+2024-02-27 16:45:51,153 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:45:51,194 - INFO - --> RESULT SCAN
+2024-02-27 16:45:51,194 - INFO - PASS SCAN
+2024-02-27 16:45:51,195 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:45:51,373 - INFO - --> Send Data SN:  21031810050123071680334195
+2024-02-27 16:45:52,681 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:45:52,682 - INFO - --> Received scan signal from PLC
+2024-02-27 16:45:52,682 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:45:52,723 - INFO - --> RESULT SCAN
+2024-02-27 16:45:52,723 - INFO - PASS SCAN
+2024-02-27 16:45:52,724 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:45:52,903 - INFO - --> Send Data SN:  21031810050123071680334723
+2024-02-27 16:45:54,222 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:45:54,222 - INFO - --> Received scan signal from PLC
+2024-02-27 16:45:54,222 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:45:54,256 - INFO - --> RESULT SCAN
+2024-02-27 16:45:54,257 - INFO - PASS SCAN
+2024-02-27 16:45:54,257 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:45:54,431 - INFO - --> Send Data SN:  21031810050123071680334142
+2024-02-27 16:45:55,782 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:45:55,782 - INFO - --> Received scan signal from PLC
+2024-02-27 16:45:55,782 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:45:55,824 - INFO - --> RESULT SCAN
+2024-02-27 16:45:55,824 - INFO - PASS SCAN
+2024-02-27 16:45:55,824 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:45:56,008 - INFO - --> Send Data SN:  21031810050123071680334184
+2024-02-27 16:45:57,261 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:45:57,262 - INFO - --> Received scan signal from PLC
+2024-02-27 16:45:57,262 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:45:57,313 - INFO - --> RESULT SCAN
+2024-02-27 16:45:57,313 - INFO - PASS SCAN
+2024-02-27 16:45:57,314 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:45:57,488 - INFO - --> Send Data SN:  21031810050123071680338292
+2024-02-27 16:45:58,822 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:45:58,822 - INFO - --> Received scan signal from PLC
+2024-02-27 16:45:58,822 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:45:58,871 - INFO - --> RESULT SCAN
+2024-02-27 16:45:58,872 - INFO - PASS SCAN
+2024-02-27 16:45:58,872 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:45:59,049 - INFO - --> Send Data SN:  21031810050123071680334733
+2024-02-27 16:46:00,371 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:46:00,371 - INFO - --> Received scan signal from PLC
+2024-02-27 16:46:00,371 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:46:00,415 - INFO - --> RESULT SCAN
+2024-02-27 16:46:00,415 - INFO - PASS SCAN
+2024-02-27 16:46:00,415 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:46:00,589 - INFO - --> Send Data SN:  21031810050123071680334119
+2024-02-27 16:46:01,842 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:46:01,842 - INFO - --> Received scan signal from PLC
+2024-02-27 16:46:01,842 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:46:01,877 - INFO - --> RESULT SCAN
+2024-02-27 16:46:01,877 - INFO - PASS SCAN
+2024-02-27 16:46:01,878 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:46:02,058 - INFO - --> Send Data SN:  21031810050123071680334209
+2024-02-27 16:46:03,352 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:46:03,353 - INFO - --> Received scan signal from PLC
+2024-02-27 16:46:03,353 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:46:03,403 - INFO - --> RESULT SCAN
+2024-02-27 16:46:03,403 - INFO - PASS SCAN
+2024-02-27 16:46:03,403 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:46:03,580 - INFO - --> Send Data SN:  21031810050123071680334167
+2024-02-27 16:46:04,872 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:46:04,872 - INFO - --> Received scan signal from PLC
+2024-02-27 16:46:04,872 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:46:04,914 - INFO - --> RESULT SCAN
+2024-02-27 16:46:04,915 - INFO - PASS SCAN
+2024-02-27 16:46:04,915 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:46:05,094 - INFO - --> Send Data SN:  21031810050123071680334735
+2024-02-27 16:46:06,371 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:46:06,372 - INFO - --> Received scan signal from PLC
+2024-02-27 16:46:06,372 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:46:06,408 - INFO - --> RESULT SCAN
+2024-02-27 16:46:06,408 - INFO - PASS SCAN
+2024-02-27 16:46:06,409 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:46:06,582 - INFO - --> Send Data SN:  21031810050123071680334664
+2024-02-27 16:46:07,931 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:46:07,932 - INFO - --> Received scan signal from PLC
+2024-02-27 16:46:07,932 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:46:07,968 - INFO - --> RESULT SCAN
+2024-02-27 16:46:07,968 - INFO - PASS SCAN
+2024-02-27 16:46:07,968 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:46:08,147 - INFO - --> Send Data SN:  21031810050123071680334238
+2024-02-27 16:46:09,413 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:46:09,413 - INFO - --> Received scan signal from PLC
+2024-02-27 16:46:09,413 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:46:09,461 - INFO - --> RESULT SCAN
+2024-02-27 16:46:09,462 - INFO - PASS SCAN
+2024-02-27 16:46:09,462 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:46:09,639 - INFO - --> Send Data SN:  21031810050123071680338294
+2024-02-27 16:46:10,890 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:46:10,891 - INFO - --> Received scan signal from PLC
+2024-02-27 16:46:10,891 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:46:10,921 - INFO - --> RESULT SCAN
+2024-02-27 16:46:10,921 - INFO - PASS SCAN
+2024-02-27 16:46:10,921 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:46:11,103 - INFO - --> Send Data SN:  21031810050123071680334232
+2024-02-27 16:46:12,401 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:46:12,401 - INFO - --> Received scan signal from PLC
+2024-02-27 16:46:12,401 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:46:12,435 - INFO - --> RESULT SCAN
+2024-02-27 16:46:12,435 - INFO - PASS SCAN
+2024-02-27 16:46:12,435 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:46:12,618 - INFO - --> Send Data SN:  21031810050123071680334228
+2024-02-27 16:46:13,912 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:46:13,912 - INFO - --> Received scan signal from PLC
+2024-02-27 16:46:13,912 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:46:13,944 - INFO - --> RESULT SCAN
+2024-02-27 16:46:13,944 - INFO - PASS SCAN
+2024-02-27 16:46:13,944 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:46:14,128 - INFO - --> Send Data SN:  21031810050123071680334178
+2024-02-27 16:46:15,390 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:46:15,391 - INFO - --> Received scan signal from PLC
+2024-02-27 16:46:15,391 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:46:15,418 - INFO - --> RESULT SCAN
+2024-02-27 16:46:15,418 - INFO - PASS SCAN
+2024-02-27 16:46:15,418 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:46:15,597 - INFO - --> Send Data SN:  21031810050123071680334718
+2024-02-27 16:46:16,931 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:46:16,931 - INFO - --> Received scan signal from PLC
+2024-02-27 16:46:16,931 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:46:23,016 - INFO - --> RESULT SCAN
+2024-02-27 16:46:23,016 - ERROR - FAILED
+2024-02-27 16:46:23,036 - ERROR - ------FAIL SCAN-------
+2024-02-27 16:46:23,036 - ERROR - Data SN: None
+2024-02-27 16:50:11,075 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-27 16:50:11,075 - INFO - --> Received scan signal from PLC
+2024-02-27 16:50:11,075 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-27 16:50:11,116 - INFO - --> RESULT SCAN
+2024-02-27 16:50:11,116 - INFO - PASS SCAN
+2024-02-27 16:50:11,116 - INFO - ----------- SEND TO SFC -----------
+2024-02-27 16:50:11,296 - INFO - --> Send Data SN:  21031810050123071680334729
+2024-02-27 16:50:11,433 - WARNING - Received signal PLC when program is processing.

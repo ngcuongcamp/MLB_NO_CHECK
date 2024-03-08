@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>480</width>
+    <height>240</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>480</width>
+    <height>240</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>480</width>
+    <height>240</height>
+   </size>
+  </property>
+  <property name="sizeIncrement">
+   <size>
+    <width>480</width>
+    <height>240</height>
+   </size>
+  </property>
+  <property name="baseSize">
+   <size>
+    <width>480</width>
+    <height>240</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Scanner L&amp;R_H501</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QGroupBox" name="ContenWrapper">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>480</width>
+      <height>240</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>480</width>
+      <height>240</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>480</width>
+      <height>240</height>
+     </size>
+    </property>
+    <property name="sizeIncrement">
+     <size>
+      <width>480</width>
+      <height>240</height>
+     </size>
+    </property>
+    <property name="baseSize">
+     <size>
+      <width>480</width>
+      <height>240</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <family>Segoe UI</family>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border: 2px solid #ccc; border-radius: 4px; background-color:rgb(237, 245, 255)</string>
+    </property>
+    <property name="title">
+     <string/>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="2">
+      <widget class="QGroupBox" name="CameraSpan2">
+       <property name="styleSheet">
+        <string notr="true">background-color: #000</string>
+       </property>
+       <property name="title">
+        <string/>
+       </property>
+       <widget class="QLabel" name="CameraLabel2">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>149</width>
+          <height>33</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Segoe UI</family>
+          <pointsize>10</pointsize>
+          <weight>75</weight>
+          <italic>false</italic>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">
+font: 10pt &quot;Segoe UI&quot;; border: none; color: #fff; background: none; font-weight:bold; background-color: rgba(85, 170, 255,0.4)</string>
+        </property>
+        <property name="text">
+         <string>CAMERA 2</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+       <widget class="QLabel" name="CameraFrame2">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>148</width>
+          <height>218</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">border: 1px solid rgb(85, 85, 127);</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+       <zorder>CameraFrame2</zorder>
+       <zorder>CameraLabel2</zorder>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QGroupBox" name="CameraSpan1">
+       <property name="styleSheet">
+        <string notr="true">background-color: #000;</string>
+       </property>
+       <property name="title">
+        <string/>
+       </property>
+       <widget class="QLabel" name="CameraLabel1">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>149</width>
+          <height>33</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Segoe UI</family>
+          <pointsize>10</pointsize>
+          <weight>75</weight>
+          <italic>false</italic>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">
+font: 10pt &quot;Segoe UI&quot;; border: none; color: #fff; background: none; font-weight:bold; background-color: rgba(85, 170, 255,0.4)</string>
+        </property>
+        <property name="text">
+         <string>CAMERA 1</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+       <widget class="QLabel" name="CameraFrame1">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>148</width>
+          <height>218</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">border: 1px solid rgb(85, 85, 127);</string>
+        </property>
+        <property name="text">
+         <string/>
+        </property>
+       </widget>
+       <zorder>CameraFrame1</zorder>
+       <zorder>CameraLabel1</zorder>
+      </widget>
+     </item>
+     <item row="0" column="0">
+      <widget class="QGroupBox" name="ResultSpan">
+       <property name="styleSheet">
+        <string notr="true">background-color:qlineargradient(spread:pad, x1:0, y1:0.0738636, x2:1, y2:0, stop:0 rgba(128, 128, 128, 255), stop:1 rgba(255, 255, 255, 255)); border: 1px solid rgb(85, 85, 127);</string>
+       </property>
+       <property name="title">
+        <string/>
+       </property>
+       <widget class="QLabel" name="ResultContent">
+        <property name="geometry">
+         <rect>
+          <x>1</x>
+          <y>0</y>
+          <width>147</width>
+          <height>217</height>
+         </rect>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">font-size: 16px;
+font: 16pt &quot;Segoe UI&quot;; border: 1px solid #ccc; color: #999; background-color: #fff;</string>
+        </property>
+        <property name="text">
+         <string>NONE</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="UpdateButton">
+        <property name="geometry">
+         <rect>
+          <x>28</x>
+          <y>185</y>
+          <width>95</width>
+          <height>27</height>
+         </rect>
+        </property>
+        <property name="sizePolicy">
+         <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+          <horstretch>0</horstretch>
+          <verstretch>0</verstretch>
+         </sizepolicy>
+        </property>
+        <property name="font">
+         <font>
+          <family>Segoe UI</family>
+          <pointsize>9</pointsize>
+          <weight>75</weight>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="cursor">
+         <cursorShape>PointingHandCursor</cursorShape>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgb(0, 111, 0); color: #fff; border: 1px solid #fff; border-radius: 8px; </string>
+        </property>
+        <property name="text">
+         <string>UPDATE</string>
+        </property>
+       </widget>
+       <widget class="QLabel" name="ResultLabel">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>149</width>
+          <height>33</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <family>Segoe UI</family>
+          <pointsize>10</pointsize>
+          <weight>75</weight>
+          <italic>false</italic>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">
+font: 10pt &quot;Segoe UI&quot;; border: none; color:rgb(0, 85, 127); background: none; font-weight:bold; background-color: rgba(85, 170, 255,0.4)</string>
+        </property>
+        <property name="text">
+         <string>RESULT</string>
+        </property>
+        <property name="alignment">
+         <set>Qt::AlignCenter</set>
+        </property>
+       </widget>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

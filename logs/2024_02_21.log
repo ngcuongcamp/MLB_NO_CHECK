@@ -1,0 +1,202 @@
+2024-02-21 14:22:41,538 - ERROR - Camera Error
+2024-02-21 14:22:41,538 - ERROR - Camera Error
+2024-02-21 14:22:42,438 - ERROR - Can't connect with MES APP
+2024-02-21 14:22:42,438 - ERROR - CAM ERROR
+2024-02-21 14:22:42,438 - ERROR - CAM ERROR
+2024-02-21 16:05:36,130 - ERROR - Camera Error
+2024-02-21 16:05:36,130 - ERROR - Camera Error
+2024-02-21 16:05:36,454 - ERROR - Can't connect with MES APP
+2024-02-21 16:05:36,454 - ERROR - CAM ERROR
+2024-02-21 16:05:36,455 - ERROR - CAM ERROR
+2024-02-21 16:25:00,648 - ERROR - Camera Error
+2024-02-21 16:25:00,960 - ERROR - Can't connect with MES APP
+2024-02-21 16:25:00,960 - ERROR - CAM ERROR
+2024-02-21 16:26:19,347 - ERROR - Camera Error
+2024-02-21 16:26:19,645 - ERROR - Can't connect with MES APP
+2024-02-21 16:26:19,646 - ERROR - CAM ERROR
+2024-02-21 16:27:47,995 - ERROR - Camera Error
+2024-02-21 16:27:48,303 - ERROR - Can't connect with MES APP
+2024-02-21 16:27:48,304 - ERROR - CAM ERROR
+2024-02-21 16:28:59,340 - ERROR - Can't connect with MES APP
+2024-02-21 16:29:18,718 - ERROR - Can't connect with MES APP
+2024-02-21 16:49:11,434 - ERROR - Can't connect with MES APP
+2024-02-21 16:50:00,324 - ERROR - Can't connect with MES APP
+2024-02-21 16:50:16,504 - ERROR - Can't connect with MES APP
+2024-02-21 16:50:17,255 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 16:50:17,255 - INFO - --> Received scan signal from PLC
+2024-02-21 16:50:17,255 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 16:50:17,910 - INFO - --> RESULT SCAN
+2024-02-21 16:50:17,911 - ERROR - FAILED
+2024-02-21 16:50:17,911 - ERROR - ------FAIL SCAN-------
+2024-02-21 16:50:17,911 - ERROR - Data SN: None
+2024-02-21 16:51:21,227 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 16:51:21,227 - INFO - --> Received scan signal from PLC
+2024-02-21 16:51:21,227 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 16:51:24,136 - INFO - --> RESULT SCAN
+2024-02-21 16:51:24,137 - ERROR - FAILED
+2024-02-21 16:51:24,137 - ERROR - ------FAIL SCAN-------
+2024-02-21 16:51:24,137 - ERROR - Data SN: None
+2024-02-21 16:52:12,213 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 16:52:12,213 - INFO - --> Received scan signal from PLC
+2024-02-21 16:52:12,213 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 16:52:12,637 - INFO - --> RESULT SCAN
+2024-02-21 16:52:12,638 - INFO - PASS SCAN
+2024-02-21 16:52:12,639 - INFO - ----------- SEND TO SFC -----------
+2024-02-21 16:52:13,015 - INFO - --> Send Data SN:  J464053005F25R2RD
+2024-02-21 16:52:13,607 - INFO - Pass
+2024-02-21 16:52:13,607 - INFO - ------PASS SFC-------
+2024-02-21 16:52:13,608 - INFO - Data SN: J464053005F25R2RD
+2024-02-21 16:52:15,188 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 16:52:15,188 - INFO - --> Received scan signal from PLC
+2024-02-21 16:52:15,188 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 16:52:15,237 - INFO - --> RESULT SCAN
+2024-02-21 16:52:15,238 - INFO - PASS SCAN
+2024-02-21 16:52:15,238 - INFO - ----------- SEND TO SFC -----------
+2024-02-21 16:52:15,601 - INFO - --> Send Data SN:  J464053005F25R2RD
+2024-02-21 16:52:16,185 - ERROR - Repetitive operation
+2024-02-21 16:52:21,549 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 16:52:21,549 - INFO - --> Received scan signal from PLC
+2024-02-21 16:52:21,549 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 16:52:21,784 - INFO - --> RESULT SCAN
+2024-02-21 16:52:21,785 - INFO - PASS SCAN
+2024-02-21 16:52:21,786 - INFO - ----------- SEND TO SFC -----------
+2024-02-21 16:52:22,145 - INFO - --> Send Data SN:  J464053005F25R2RD
+2024-02-21 16:52:22,736 - ERROR - Repetitive operation
+2024-02-21 16:52:24,748 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 16:52:24,748 - INFO - --> Received scan signal from PLC
+2024-02-21 16:52:24,748 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 16:52:25,422 - INFO - --> RESULT SCAN
+2024-02-21 16:52:25,423 - INFO - PASS SCAN
+2024-02-21 16:52:25,424 - INFO - ----------- SEND TO SFC -----------
+2024-02-21 16:52:25,789 - INFO - --> Send Data SN:  J464053005F25R2RD
+2024-02-21 16:52:26,377 - ERROR - Repetitive operation
+2024-02-21 16:52:29,362 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 16:52:29,362 - INFO - --> Received scan signal from PLC
+2024-02-21 16:52:29,362 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 16:52:29,413 - INFO - --> RESULT SCAN
+2024-02-21 16:52:29,416 - INFO - PASS SCAN
+2024-02-21 16:52:29,417 - INFO - ----------- SEND TO SFC -----------
+2024-02-21 16:52:29,777 - INFO - --> Send Data SN:  J464053005F25R2RD
+2024-02-21 16:52:30,361 - INFO - Pass
+2024-02-21 16:52:30,362 - INFO - ------PASS SFC-------
+2024-02-21 16:52:30,362 - INFO - Data SN: J464053005F25R2RD
+2024-02-21 16:52:32,113 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 16:52:32,113 - INFO - --> Received scan signal from PLC
+2024-02-21 16:52:32,113 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 16:52:32,213 - INFO - --> RESULT SCAN
+2024-02-21 16:52:32,214 - INFO - PASS SCAN
+2024-02-21 16:52:32,215 - INFO - ----------- SEND TO SFC -----------
+2024-02-21 16:52:32,572 - INFO - --> Send Data SN:  J464053005F25R2RD
+2024-02-21 16:52:33,160 - ERROR - Repetitive operation
+2024-02-21 16:52:34,437 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 16:52:34,437 - INFO - --> Received scan signal from PLC
+2024-02-21 16:52:34,437 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 16:52:34,482 - INFO - --> RESULT SCAN
+2024-02-21 16:52:34,483 - INFO - PASS SCAN
+2024-02-21 16:52:34,484 - INFO - ----------- SEND TO SFC -----------
+2024-02-21 16:52:34,863 - INFO - --> Send Data SN:  J464053005F25R2RD
+2024-02-21 16:52:35,448 - ERROR - Repetitive operation
+2024-02-21 16:52:36,560 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 16:52:36,560 - INFO - --> Received scan signal from PLC
+2024-02-21 16:52:36,560 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 16:52:36,606 - INFO - --> RESULT SCAN
+2024-02-21 16:52:36,607 - INFO - PASS SCAN
+2024-02-21 16:52:36,608 - INFO - ----------- SEND TO SFC -----------
+2024-02-21 16:52:36,968 - INFO - --> Send Data SN:  J464053005F25R2RD
+2024-02-21 16:52:37,551 - ERROR - Repetitive operation
+2024-02-21 16:52:38,464 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 16:52:38,464 - INFO - --> Received scan signal from PLC
+2024-02-21 16:52:38,465 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 16:52:38,515 - INFO - --> RESULT SCAN
+2024-02-21 16:52:38,516 - INFO - PASS SCAN
+2024-02-21 16:52:38,517 - INFO - ----------- SEND TO SFC -----------
+2024-02-21 16:52:38,877 - INFO - --> Send Data SN:  J464053005F25R2RD
+2024-02-21 16:52:39,463 - ERROR - Repetitive operation
+2024-02-21 16:52:41,212 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 16:52:41,212 - INFO - --> Received scan signal from PLC
+2024-02-21 16:52:41,212 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 16:52:41,258 - INFO - --> RESULT SCAN
+2024-02-21 16:52:41,259 - INFO - PASS SCAN
+2024-02-21 16:52:41,260 - INFO - ----------- SEND TO SFC -----------
+2024-02-21 16:52:41,623 - INFO - --> Send Data SN:  J464053005F25R2RD
+2024-02-21 16:52:42,205 - INFO - Pass
+2024-02-21 16:52:42,206 - INFO - ------PASS SFC-------
+2024-02-21 16:52:42,206 - INFO - Data SN: J464053005F25R2RD
+2024-02-21 16:53:48,259 - ERROR - Can't connect with MES APP
+2024-02-21 16:56:12,901 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 16:56:12,901 - INFO - --> Received scan signal from PLC
+2024-02-21 16:56:12,901 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 16:56:12,954 - INFO - --> RESULT SCAN
+2024-02-21 16:56:12,956 - INFO - PASS SCAN
+2024-02-21 16:56:12,956 - INFO - ----------- SEND TO SFC -----------
+2024-02-21 16:56:13,338 - INFO - --> Send Data SN:  J464053005F25R2RD
+2024-02-21 16:56:13,923 - ERROR - Repetitive operation
+2024-02-21 16:57:44,138 - ERROR - Can't connect with MES APP
+2024-02-21 17:38:26,344 - ERROR - Can't connect with MES APP
+2024-02-21 17:40:38,844 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 17:40:38,844 - INFO - --> Received scan signal from PLC
+2024-02-21 17:40:38,845 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 17:40:41,508 - INFO - --> RESULT SCAN
+2024-02-21 17:40:41,508 - ERROR - FAILED
+2024-02-21 17:40:41,508 - ERROR - ------FAIL SCAN-------
+2024-02-21 17:40:41,509 - ERROR - Data SN: None
+2024-02-21 17:41:25,097 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 17:41:25,097 - INFO - --> Received scan signal from PLC
+2024-02-21 17:41:25,098 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 17:41:27,811 - INFO - --> RESULT SCAN
+2024-02-21 17:41:27,812 - ERROR - FAILED
+2024-02-21 17:41:27,812 - ERROR - ------FAIL SCAN-------
+2024-02-21 17:41:27,812 - ERROR - Data SN: None
+2024-02-21 17:44:26,628 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 17:44:26,629 - INFO - --> Received scan signal from PLC
+2024-02-21 17:44:26,629 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 17:44:31,377 - INFO - --> RESULT SCAN
+2024-02-21 17:44:31,378 - ERROR - FAILED
+2024-02-21 17:44:31,378 - ERROR - ------FAIL SCAN-------
+2024-02-21 17:44:31,378 - ERROR - Data SN: None
+2024-02-21 17:44:37,080 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 17:44:37,081 - INFO - --> Received scan signal from PLC
+2024-02-21 17:44:37,081 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 17:44:40,909 - INFO - --> RESULT SCAN
+2024-02-21 17:44:40,910 - ERROR - FAILED
+2024-02-21 17:44:40,910 - ERROR - ------FAIL SCAN-------
+2024-02-21 17:44:40,910 - ERROR - Data SN: None
+2024-02-21 17:45:30,737 - ERROR - Can't connect with MES APP
+2024-02-21 17:45:45,638 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 17:45:45,638 - INFO - --> Received scan signal from PLC
+2024-02-21 17:45:45,638 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 17:45:46,028 - INFO - --> RESULT SCAN
+2024-02-21 17:45:46,029 - INFO - PASS SCAN
+2024-02-21 17:45:46,029 - INFO - ----------- SEND TO SFC -----------
+2024-02-21 17:45:46,054 - ERROR - Failed to push code because the app is not connected.
+2024-02-21 17:45:46,055 - INFO - --> Send Data SN:  http://www.21nine.co.uk
+2024-02-21 17:46:31,775 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-21 17:46:31,775 - INFO - --> Received scan signal from PLC
+2024-02-21 17:46:31,775 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-21 17:46:32,106 - INFO - --> RESULT SCAN
+2024-02-21 17:46:32,107 - INFO - PASS SCAN
+2024-02-21 17:46:32,108 - INFO - ----------- SEND TO SFC -----------
+2024-02-21 17:46:32,575 - INFO - --> Send Data SN:  http://www.21nine.co.uk
+2024-02-21 17:46:33,170 - INFO - Pass
+2024-02-21 17:46:33,170 - INFO - ------PASS SFC-------
+2024-02-21 17:46:33,170 - INFO - Data SN: http://www.21nine.co.uk
+2024-02-21 18:56:07,478 - ERROR - Can't connect with MES APP

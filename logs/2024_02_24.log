@@ -1,0 +1,87 @@
+2024-02-24 08:46:06,314 - ERROR - Can't connect with MES APP
+2024-02-24 08:49:52,265 - ERROR - CAM ERROR
+2024-02-24 08:49:52,271 - ERROR - Camera Error
+2024-02-24 08:55:25,840 - ERROR - Camera Error
+2024-02-24 08:55:26,152 - ERROR - Can't connect with MES APP
+2024-02-24 08:55:26,152 - ERROR - CAM ERROR
+2024-02-24 08:55:39,219 - ERROR - Camera Error
+2024-02-24 08:55:39,531 - ERROR - CAM ERROR
+2024-02-24 08:57:46,657 - WARNING - Wrong PLC Signal
+2024-02-24 08:57:49,771 - WARNING - Wrong PLC Signal
+2024-02-24 08:58:19,839 - ERROR - Can't connect with MES APP
+2024-02-24 08:59:01,364 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-24 08:59:01,364 - INFO - --> Received scan signal from PLC
+2024-02-24 08:59:01,364 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-24 08:59:01,444 - INFO - --> RESULT SCAN
+2024-02-24 08:59:01,444 - INFO - PASS SCAN
+2024-02-24 08:59:01,444 - INFO - ----------- SEND TO SFC -----------
+2024-02-24 08:59:04,598 - WARNING - Received signal PLC when program is processing.
+2024-02-24 08:59:11,416 - WARNING - Received signal PLC when program is processing.
+2024-02-24 11:33:30,951 - ERROR - Camera Error
+2024-02-24 11:33:31,276 - ERROR - Can't connect with MES APP
+2024-02-24 11:33:31,292 - ERROR - CAM ERROR
+2024-02-24 13:27:14,561 - ERROR - Can't connect with MES APP
+2024-02-24 13:28:04,733 - WARNING - Wrong PLC Signal
+2024-02-24 13:30:25,600 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-24 13:30:25,600 - INFO - --> Received scan signal from PLC
+2024-02-24 13:30:25,601 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-24 13:30:25,655 - INFO - --> RESULT SCAN
+2024-02-24 13:30:25,660 - INFO - PASS SCAN
+2024-02-24 13:30:25,660 - INFO - ----------- SEND TO SFC -----------
+2024-02-24 13:31:12,537 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-24 13:31:12,538 - INFO - --> Received scan signal from PLC
+2024-02-24 13:31:12,538 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-24 13:31:12,630 - INFO - --> RESULT SCAN
+2024-02-24 13:31:12,635 - INFO - PASS SCAN
+2024-02-24 13:31:12,636 - INFO - ----------- SEND TO SFC -----------
+2024-02-24 13:36:57,698 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-24 13:36:57,698 - INFO - --> Received scan signal from PLC
+2024-02-24 13:36:57,698 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-24 13:36:57,755 - INFO - --> RESULT SCAN
+2024-02-24 13:36:57,756 - INFO - PASS SCAN
+2024-02-24 13:36:57,757 - INFO - ----------- SEND TO SFC -----------
+2024-02-24 13:38:27,960 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-24 13:38:27,963 - INFO - --> Received scan signal from PLC
+2024-02-24 13:38:27,963 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-24 13:38:28,057 - INFO - --> RESULT SCAN
+2024-02-24 13:38:28,058 - INFO - PASS SCAN
+2024-02-24 13:38:28,059 - INFO - ----------- SEND TO SFC -----------
+2024-02-24 13:40:30,890 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-24 13:40:30,894 - INFO - --> Received scan signal from PLC
+2024-02-24 13:40:30,894 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-24 13:40:30,932 - INFO - --> RESULT SCAN
+2024-02-24 13:40:30,933 - INFO - PASS SCAN
+2024-02-24 13:40:30,933 - INFO - ----------- SEND TO SFC -----------
+2024-02-24 13:40:30,952 - WARNING - Wrong PLC Signal
+2024-02-24 13:40:30,968 - WARNING - Wrong PLC Signal
+2024-02-24 13:40:37,406 - WARNING - Received signal PLC when program is processing.
+2024-02-24 13:41:30,038 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-24 13:41:30,038 - INFO - --> Received scan signal from PLC
+2024-02-24 13:41:30,038 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-24 13:41:30,081 - INFO - --> RESULT SCAN
+2024-02-24 13:41:30,082 - INFO - PASS SCAN
+2024-02-24 13:41:30,083 - INFO - ----------- SEND TO SFC -----------
+2024-02-24 13:41:30,099 - WARNING - Wrong PLC Signal
+2024-02-24 13:41:30,115 - WARNING - Wrong PLC Signal
+2024-02-24 13:42:25,053 - INFO - 
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+2024-02-24 13:42:25,055 - INFO - --> Received scan signal from PLC
+2024-02-24 13:42:25,056 - INFO - --> ------ SCAN SIGNAL -------
+2024-02-24 13:42:25,104 - INFO - --> RESULT SCAN
+2024-02-24 13:42:25,106 - INFO - PASS SCAN
+2024-02-24 13:42:25,106 - INFO - ----------- SEND TO SFC -----------
+2024-02-24 13:42:25,130 - WARNING - Wrong PLC Signal
+2024-02-24 13:42:27,341 - INFO - --> Send Data SN:  https://www.laserax.com
+2024-02-24 13:42:36,267 - WARNING - Received signal PLC when program is processing.
+2024-02-24 16:38:08,363 - ERROR - Camera Error
+2024-02-24 16:38:08,676 - ERROR - Can't connect with MES APP
+2024-02-24 16:38:08,677 - ERROR - CAM ERROR
+2024-02-24 16:57:45,005 - ERROR - Camera Error
+2024-02-24 16:57:45,301 - ERROR - CAM ERROR
